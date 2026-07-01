@@ -1,0 +1,157 @@
+#!/usr/bin/env bash
+# ---------------------------------------------------------------------------
+# AR-Loss v3s — λ=0.001, 5 epochs, best-checkpoint tracking
+#
+# Changes vs launch_ar_loss_v3s_lambda001.sh:
+#   - λ_ar=0.001  (lower AR gradient conflict)
+#   - 5 epochs    (longer training)
+#   - evaluation_strategy=steps + load_best_model_at_end=True
+#   - validation: fsc147_val (1,286 samples, CE eval loss)
+#
+# Everything else identical:
+#   - Warm-start: BASELINE_BEST adapter + connector
+#   - lr=1e-5, cosine, warmup 0.06, eff batch 16
+#   - LoRA r=64 α=128 dropout=0.05, connector unfrozen
+#   - accelerate + DeepSpeed ZeRO-2, bf16
+# ---------------------------------------------------------------------------
+set -euo pipefail
+
+cd "$(dirname "$0")/../.."
+
+export PATH="/home/nvidia/miniconda3/bin:${PATH}"
+
+# ── Paths ──────────────────────────────────────────────────────────────────
+BASE_MODEL="/data/amondal/model_cache/UniLIP-3B"
+MLLM_HF="/data/amondal/UniCount/.hf_cache/hub/models--OpenGVLab--InternVL3-2B-hf/snapshots/cb57a075cb75a2e6d1b668b128d48bb00ae321d2"
+TRAIN_JSON="outputs/experiment_lora_counting_sft/balanced_mix_v3s/balanced_mix_train_with_centers.json"
+VAL_JSON="outputs/experiment_lora_counting_sft/cross_eval/fsc147_val_countdetect_counting.json"
+DS_CFG="scripts/experiment_lora_counting_sft/ds_zero2.json"
+BASELINE="/data/amondal/unicount_runs/BASELINE_BEST_lora64a128_allsplits_countdetect"
+INIT_ADAPTER="${BASELINE}/adapter"
+INIT_CONN="${BASELINE}/adapter/multi_modal_projector.bin"
+
+STAMP=$(date +%Y%m%d_%H%M%S)
+RUN_TAG="ar_loss_v3s_lambda0001"
+OUT_DIR="/data/amondal/unicount_runs/${RUN_TAG}_${STAMP}"
+
+mkdir -p "$OUT_DIR" logs
+
+# ── Hyperparameters ────────────────────────────────────────────────────────
+NGPU=8
+EPOCHS=5
+LR=1e-5
+BATCH=2
+GRAD_ACCUM=1           # eff_batch = 8 * 2 * 1 = 16
+LORA_RANK=64
+LORA_ALPHA=128
+LORA_DROPOUT=0.05
+WARMUP_RATIO=0.06
+STEPS_PER_EPOCH=3116   # ceil(49847 / 16)
+EVAL_STEPS=500
+SAVE_STEPS=500
+SAVE_LIMIT=10          # keep more checkpoints for best-ckpt tracking
+
+# ── AR loss config ─────────────────────────────────────────────────────────
+LAMBDA_AR=0.001
+AR_SIGMA=1.0
+AR_TEMPERATURE=1.0
+AR_USE_SHARPENING=False
+
+LOG="logs/${RUN_TAG}_${STAMP}.log"
+
+# ── Environment ────────────────────────────────────────────────────────────
+export CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7
+export CUDA_HOME=/usr
+export LD_LIBRARY_PATH="/usr/lib/x86_64-linux-gnu:${LD_LIBRARY_PATH:-}"
+export HF_HOME="${HF_HOME:-/data/amondal/UniCount/.hf_cache}"
+export TRITON_CACHE_DIR="${TRITON_CACHE_DIR:-/data/amondal/UniCount/.triton_cache}"
+export TORCH_HOME="${TORCH_HOME:-/data/amondal/UniCount/.torch_cache}"
+export PYTORCH_CUDA_ALLOC_CONF="expandable_segments:True"
+export TOKENIZERS_PARALLELISM=false
+export INIT_CONNECTOR_FROM="$INIT_CONN"
+export WANDB_PROJECT="ar_loss_v3s"
+
+# ── Pre-flight checks ──────────────────────────────────────────────────────
+[ -f "$TRAIN_JSON" ]          || { echo "ABORT: missing TRAIN_JSON $TRAIN_JSON"; exit 1; }
+[ -f "$VAL_JSON" ]            || { echo "ABORT: missing VAL_JSON $VAL_JSON"; exit 1; }
+[ -f "$INIT_ADAPTER/adapter_model.safetensors" ] || { echo "ABORT: missing baseline adapter"; exit 1; }
+[ -f "$INIT_CONN" ]           || { echo "ABORT: missing connector $INIT_CONN"; exit 1; }
+[ -d "$OUT_DIR" ] && [ -n "$(ls -A $OUT_DIR 2>/dev/null)" ] && { echo "ABORT: OUT_DIR not empty: $OUT_DIR"; exit 1; }
+
+BASELINE_MD5_ADAPTER=$(md5sum "$INIT_ADAPTER/adapter_model.safetensors" | awk '{print $1}')
+BASELINE_MD5_CONN=$(md5sum "$INIT_CONN" | awk '{print $1}')
+
+echo "============================================================"
+echo " AR-Loss v3s  λ=${LAMBDA_AR}  epochs=${EPOCHS}"
+echo "  base model    : $BASE_MODEL"
+echo "  init adapter  : $INIT_ADAPTER"
+echo "  init connector: $INIT_CONN"
+echo "  train data    : $TRAIN_JSON  ($(python3 -c "import json; print(len(json.load(open('$TRAIN_JSON'))))" 2>/dev/null) records)"
+echo "  val data      : $VAL_JSON    ($(python3 -c "import json; print(len(json.load(open('$VAL_JSON'))))" 2>/dev/null) records)"
+echo "  output        : $OUT_DIR"
+echo "  log           : $LOG"
+echo ""
+echo "  epochs=$EPOCHS  lr=$LR  per_device=$BATCH  grad_accum=$GRAD_ACCUM  ngpu=$NGPU  eff_batch=$(( NGPU * BATCH * GRAD_ACCUM ))"
+echo "  lora r=$LORA_RANK α=$LORA_ALPHA dropout=$LORA_DROPOUT"
+echo "  λ_ar=$LAMBDA_AR  ar_sigma=$AR_SIGMA  ar_temperature=$AR_TEMPERATURE  ar_sharpening=$AR_USE_SHARPENING"
+echo "  eval_steps=$EVAL_STEPS  save_steps=$SAVE_STEPS  save_limit=$SAVE_LIMIT"
+echo "  best-checkpoint: load_best_model_at_end=True  metric=eval_loss"
+echo ""
+echo "  baseline adapter md5 : $BASELINE_MD5_ADAPTER"
+echo "  baseline connector md5: $BASELINE_MD5_CONN"
+echo "============================================================"
+nvidia-smi --query-gpu=index,name,memory.free --format=csv
+
+# Save pre-flight md5s
+echo "$BASELINE_MD5_ADAPTER  $INIT_ADAPTER/adapter_model.safetensors" >  "$OUT_DIR/_PREFLIGHT_MD5.txt"
+echo "$BASELINE_MD5_CONN     $INIT_CONN"                              >> "$OUT_DIR/_PREFLIGHT_MD5.txt"
+
+accelerate launch \
+    --num_processes="${NGPU}" \
+    --mixed_precision=bf16 \
+    scripts/experiment_lora_counting_sft/train_dual_loss_3b.py \
+        --model_name_or_path              "$BASE_MODEL" \
+        --mllm_hf_path                    "$MLLM_HF" \
+        --data_path                       "$TRAIN_JSON" \
+        --validation_data_path            "$VAL_JSON" \
+        --output_dir                      "$OUT_DIR" \
+        --deepspeed                       "$DS_CFG" \
+        --init_adapter_from               "$INIT_ADAPTER" \
+        --lora_rank                       "$LORA_RANK" \
+        --lora_alpha                      "$LORA_ALPHA" \
+        --lora_dropout                    "$LORA_DROPOUT" \
+        --num_train_epochs                "$EPOCHS" \
+        --per_device_train_batch_size     "$BATCH" \
+        --gradient_accumulation_steps     "$GRAD_ACCUM" \
+        --learning_rate                   "$LR" \
+        --warmup_ratio                    "$WARMUP_RATIO" \
+        --lr_scheduler_type               cosine \
+        --weight_decay                    0.0 \
+        --max_grad_norm                   1.0 \
+        --bf16                            True \
+        --model_max_length                512 \
+        --logging_steps                   10 \
+        --save_strategy                   steps \
+        --save_steps                      "$SAVE_STEPS" \
+        --save_total_limit                "$SAVE_LIMIT" \
+        --eval_strategy                   steps \
+        --eval_steps                      "$EVAL_STEPS" \
+        --load_best_model_at_end          True \
+        --metric_for_best_model           eval_loss \
+        --greater_is_better               False \
+        --gradient_checkpointing          True \
+        --remove_unused_columns           False \
+        --dataloader_num_workers          4 \
+        --report_to                       wandb \
+        --run_name                        "${RUN_TAG}_${STAMP}" \
+        --seed                            42 \
+        --lambda_ar                       "$LAMBDA_AR" \
+        --ar_sigma                        "$AR_SIGMA" \
+        --ar_temperature                  "$AR_TEMPERATURE" \
+        --ar_use_sharpening               "$AR_USE_SHARPENING" \
+    2>&1 | tee "$LOG"
+
+echo "============================================================"
+echo " Training complete → $OUT_DIR"
+echo " Best checkpoint saved by load_best_model_at_end"
+echo "============================================================"

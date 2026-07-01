@@ -1,0 +1,10 @@
+https://huggingface.co/datasets/hdtech/SA-1B/resolve/main/SA-1B-Part-000000.zip?download=true
+https://huggingface.co/datasets/hdtech/SA-1B/resolve/main/SA-1B-Part-000001.zip?download=true
+https://huggingface.co/datasets/hdtech/SA-1B/resolve/main/SA-1B-Part-000002.zip?download=true
+https://huggingface.co/datasets/hdtech/SA-1B/resolve/main/SA-1B-Part-000003.zip?download=true
+https://huggingface.co/datasets/hdtech/SA-1B/resolve/main/SA-1B-Part-000004.zip?download=true
+https://huggingface.co/datasets/hdtech/SA-1B/resolve/main/SA-1B-Part-000995.zip?download=true
+https://huggingface.co/datasets/hdtech/SA-1B/resolve/main/SA-1B-Part-000996.zip?download=true
+https://huggingface.co/datasets/hdtech/SA-1B/resolve/main/SA-1B-Part-000997.zip?download=true
+https://huggingface.co/datasets/hdtech/SA-1B/resolve/main/SA-1B-Part-000998.zip?download=true
+https://huggingface.co/datasets/hdtech/SA-1B/resolve/main/SA-1B-Part-000999.zip?download=true

@@ -1,0 +1,25 @@
+{
+  "_comment": "DeepSpeed ZeRO-2 config for LoRA SFT (Variant B, 8 x GPU).",
+  "_comment_why_not_z3": "ZeRO-3 wraps nn.Module.__init__ with meta-tensor deferred init. UniLIP.__init__ calls SanaTransformer2DModel.from_pretrained() internally; those params land on real devices while ZeRO-3 expects meta tensors → NotImplementedError. ZeRO-2 keeps full params on each rank and avoids this entirely.",
+  "_comment_eff_batch": "With 8 GPUs × per_device(1) × grad_accum(2) → effective batch = 16 (matches spec §A.7).",
+
+  "zero_optimization": {
+    "stage": 2,
+    "overlap_comm": true,
+    "contiguous_gradients": true,
+    "allgather_bucket_size": 2e8,
+    "reduce_bucket_size": 2e8,
+    "reduce_scatter": true
+  },
+
+  "bf16": {
+    "enabled": "auto"
+  },
+
+  "gradient_clipping": "auto",
+  "gradient_accumulation_steps": "auto",
+  "train_micro_batch_size_per_gpu": "auto",
+  "train_batch_size": "auto",
+  "steps_per_print": 10,
+  "wall_clock_breakdown": false
+}

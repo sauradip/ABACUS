@@ -1,0 +1,52 @@
+# UniLIP large files (keep source code, exclude binaries)
+UniLIP/.hf_cache/
+UniLIP/.triton_cache/
+UniLIP/.resolved_models/
+UniLIP/python_libs/
+UniLIP/work_dirs/
+UniLIP/*.sif
+UniLIP/*.png
+UniLIP/UniLIP-1B/
+UniLIP/UniLIP-3B/
+UniLIP/__pycache__/
+UniLIP/**/*.pyc
+
+# UniCount checkpoint binaries
+checkpoints/t2i_sft/pytorch_model.bin
+checkpoints/t2i_sft/gen_projector.bin
+checkpoints/t2i_sft/mm_projector.bin
+checkpoints/grpo_judge/model.safetensors
+checkpoints/grpo_judge/vocab.json
+checkpoints/grpo_judge/merges.txt
+
+# Gen wrapper binaries
+gen_wrapper/t2i_sft/model.safetensors
+gen_wrapper/t2i_sft/pytorch_model.bin
+gen_wrapper/t2i_sft/vocab.json
+gen_wrapper/t2i_sft/merges.txt
+
+# Outputs
+outputs/
+
+# Logs
+/logs/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# DPO training outputs
+data/dpo_train.tar
+checkpoints/dpo/
+gen_wrapper/dpo/model.safetensors
+gen_wrapper/dpo/pytorch_model.bin
+outputs/examples/dpo_countbench/
+outputs/examples/dpo_fsc147/

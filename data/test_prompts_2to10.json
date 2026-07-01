@@ -1,0 +1,362 @@
+{
+  "2.jpg": {
+    "image_name": "2.jpg",
+    "class_name": "sea shells",
+    "count": 8,
+    "prompt": "An image of 8 sea shells in a natural scene."
+  },
+  "4.jpg": {
+    "image_name": "4.jpg",
+    "class_name": "hot air balloons",
+    "count": 10,
+    "prompt": "An image of 10 hot air balloons in a natural scene."
+  },
+  "6.jpg": {
+    "image_name": "6.jpg",
+    "class_name": "hot air balloons",
+    "count": 9,
+    "prompt": "An image of 9 hot air balloons in a natural scene."
+  },
+  "286.jpg": {
+    "image_name": "286.jpg",
+    "class_name": "strawberries",
+    "count": 10,
+    "prompt": "An image of 10 strawberries in a natural scene."
+  },
+  "1887.jpg": {
+    "image_name": "1887.jpg",
+    "class_name": "elephants",
+    "count": 10,
+    "prompt": "An image of 10 elephants in a natural scene."
+  },
+  "2052.jpg": {
+    "image_name": "2052.jpg",
+    "class_name": "sunglasses",
+    "count": 8,
+    "prompt": "An image of 8 sunglasses in a natural scene."
+  },
+  "2143.jpg": {
+    "image_name": "2143.jpg",
+    "class_name": "apples",
+    "count": 9,
+    "prompt": "An image of 9 apples in a natural scene."
+  },
+  "2150.jpg": {
+    "image_name": "2150.jpg",
+    "class_name": "apples",
+    "count": 9,
+    "prompt": "An image of 9 apples in a natural scene."
+  },
+  "2178.jpg": {
+    "image_name": "2178.jpg",
+    "class_name": "apples",
+    "count": 10,
+    "prompt": "An image of 10 apples in a natural scene."
+  },
+  "2189.jpg": {
+    "image_name": "2189.jpg",
+    "class_name": "apples",
+    "count": 8,
+    "prompt": "An image of 8 apples in a natural scene."
+  },
+  "2204.jpg": {
+    "image_name": "2204.jpg",
+    "class_name": "apples",
+    "count": 9,
+    "prompt": "An image of 9 apples in a natural scene."
+  },
+  "2207.jpg": {
+    "image_name": "2207.jpg",
+    "class_name": "apples",
+    "count": 10,
+    "prompt": "An image of 10 apples in a natural scene."
+  },
+  "2262.jpg": {
+    "image_name": "2262.jpg",
+    "class_name": "apples",
+    "count": 9,
+    "prompt": "An image of 9 apples in a natural scene."
+  },
+  "2267.jpg": {
+    "image_name": "2267.jpg",
+    "class_name": "apples",
+    "count": 9,
+    "prompt": "An image of 9 apples in a natural scene."
+  },
+  "2615.jpg": {
+    "image_name": "2615.jpg",
+    "class_name": "deers",
+    "count": 9,
+    "prompt": "An image of 9 deers in a natural scene."
+  },
+  "2938.jpg": {
+    "image_name": "2938.jpg",
+    "class_name": "stamps",
+    "count": 9,
+    "prompt": "An image of 9 stamps in a natural scene."
+  },
+  "3112.jpg": {
+    "image_name": "3112.jpg",
+    "class_name": "crab cakes",
+    "count": 10,
+    "prompt": "An image of 10 crab cakes in a natural scene."
+  },
+  "3274.jpg": {
+    "image_name": "3274.jpg",
+    "class_name": "finger foods",
+    "count": 9,
+    "prompt": "An image of 9 finger foods in a natural scene."
+  },
+  "3323.jpg": {
+    "image_name": "3323.jpg",
+    "class_name": "green peas",
+    "count": 9,
+    "prompt": "An image of 9 green peas in a natural scene."
+  },
+  "3696.jpg": {
+    "image_name": "3696.jpg",
+    "class_name": "candy pieces",
+    "count": 8,
+    "prompt": "An image of 8 candy pieces in a natural scene."
+  },
+  "4066.jpg": {
+    "image_name": "4066.jpg",
+    "class_name": "marbles",
+    "count": 9,
+    "prompt": "An image of 9 marbles in a natural scene."
+  },
+  "4068.jpg": {
+    "image_name": "4068.jpg",
+    "class_name": "marbles",
+    "count": 10,
+    "prompt": "An image of 10 marbles in a natural scene."
+  },
+  "4115.jpg": {
+    "image_name": "4115.jpg",
+    "class_name": "finger foods",
+    "count": 8,
+    "prompt": "An image of 8 finger foods in a natural scene."
+  },
+  "4121.jpg": {
+    "image_name": "4121.jpg",
+    "class_name": "finger foods",
+    "count": 10,
+    "prompt": "An image of 10 finger foods in a natural scene."
+  },
+  "4409.jpg": {
+    "image_name": "4409.jpg",
+    "class_name": "hot air balloons",
+    "count": 9,
+    "prompt": "An image of 9 hot air balloons in a natural scene."
+  },
+  "4412.jpg": {
+    "image_name": "4412.jpg",
+    "class_name": "hot air balloons",
+    "count": 10,
+    "prompt": "An image of 10 hot air balloons in a natural scene."
+  },
+  "4421.jpg": {
+    "image_name": "4421.jpg",
+    "class_name": "hot air balloons",
+    "count": 8,
+    "prompt": "An image of 8 hot air balloons in a natural scene."
+  },
+  "4422.jpg": {
+    "image_name": "4422.jpg",
+    "class_name": "hot air balloons",
+    "count": 10,
+    "prompt": "An image of 10 hot air balloons in a natural scene."
+  },
+  "4495.jpg": {
+    "image_name": "4495.jpg",
+    "class_name": "skis",
+    "count": 10,
+    "prompt": "An image of 10 skis in a natural scene."
+  },
+  "4499.jpg": {
+    "image_name": "4499.jpg",
+    "class_name": "skis",
+    "count": 10,
+    "prompt": "An image of 10 skis in a natural scene."
+  },
+  "4500.jpg": {
+    "image_name": "4500.jpg",
+    "class_name": "skis",
+    "count": 8,
+    "prompt": "An image of 8 skis in a natural scene."
+  },
+  "4895.jpg": {
+    "image_name": "4895.jpg",
+    "class_name": "strawberries",
+    "count": 8,
+    "prompt": "An image of 8 strawberries in a natural scene."
+  },
+  "4913.jpg": {
+    "image_name": "4913.jpg",
+    "class_name": "strawberries",
+    "count": 10,
+    "prompt": "An image of 10 strawberries in a natural scene."
+  },
+  "4922.jpg": {
+    "image_name": "4922.jpg",
+    "class_name": "strawberries",
+    "count": 8,
+    "prompt": "An image of 8 strawberries in a natural scene."
+  },
+  "4935.jpg": {
+    "image_name": "4935.jpg",
+    "class_name": "strawberries",
+    "count": 9,
+    "prompt": "An image of 9 strawberries in a natural scene."
+  },
+  "5365.jpg": {
+    "image_name": "5365.jpg",
+    "class_name": "marbles",
+    "count": 9,
+    "prompt": "An image of 9 marbles in a natural scene."
+  },
+  "5377.jpg": {
+    "image_name": "5377.jpg",
+    "class_name": "finger foods",
+    "count": 9,
+    "prompt": "An image of 9 finger foods in a natural scene."
+  },
+  "5379.jpg": {
+    "image_name": "5379.jpg",
+    "class_name": "finger foods",
+    "count": 9,
+    "prompt": "An image of 9 finger foods in a natural scene."
+  },
+  "5380.jpg": {
+    "image_name": "5380.jpg",
+    "class_name": "finger foods",
+    "count": 9,
+    "prompt": "An image of 9 finger foods in a natural scene."
+  },
+  "5381.jpg": {
+    "image_name": "5381.jpg",
+    "class_name": "finger foods",
+    "count": 9,
+    "prompt": "An image of 9 finger foods in a natural scene."
+  },
+  "5382.jpg": {
+    "image_name": "5382.jpg",
+    "class_name": "finger foods",
+    "count": 9,
+    "prompt": "An image of 9 finger foods in a natural scene."
+  },
+  "5383.jpg": {
+    "image_name": "5383.jpg",
+    "class_name": "finger foods",
+    "count": 10,
+    "prompt": "An image of 10 finger foods in a natural scene."
+  },
+  "5385.jpg": {
+    "image_name": "5385.jpg",
+    "class_name": "finger foods",
+    "count": 9,
+    "prompt": "An image of 9 finger foods in a natural scene."
+  },
+  "5387.jpg": {
+    "image_name": "5387.jpg",
+    "class_name": "finger foods",
+    "count": 8,
+    "prompt": "An image of 8 finger foods in a natural scene."
+  },
+  "5565.jpg": {
+    "image_name": "5565.jpg",
+    "class_name": "finger foods",
+    "count": 8,
+    "prompt": "An image of 8 finger foods in a natural scene."
+  },
+  "5572.jpg": {
+    "image_name": "5572.jpg",
+    "class_name": "marbles",
+    "count": 9,
+    "prompt": "An image of 9 marbles in a natural scene."
+  },
+  "5581.jpg": {
+    "image_name": "5581.jpg",
+    "class_name": "marbles",
+    "count": 8,
+    "prompt": "An image of 8 marbles in a natural scene."
+  },
+  "5819.jpg": {
+    "image_name": "5819.jpg",
+    "class_name": "strawberries",
+    "count": 9,
+    "prompt": "An image of 9 strawberries in a natural scene."
+  },
+  "5850.jpg": {
+    "image_name": "5850.jpg",
+    "class_name": "strawberries",
+    "count": 9,
+    "prompt": "An image of 9 strawberries in a natural scene."
+  },
+  "5926.jpg": {
+    "image_name": "5926.jpg",
+    "class_name": "eggs",
+    "count": 10,
+    "prompt": "An image of 10 eggs in a natural scene."
+  },
+  "5931.jpg": {
+    "image_name": "5931.jpg",
+    "class_name": "eggs",
+    "count": 9,
+    "prompt": "An image of 9 eggs in a natural scene."
+  },
+  "5937.jpg": {
+    "image_name": "5937.jpg",
+    "class_name": "eggs",
+    "count": 10,
+    "prompt": "An image of 10 eggs in a natural scene."
+  },
+  "5939.jpg": {
+    "image_name": "5939.jpg",
+    "class_name": "eggs",
+    "count": 8,
+    "prompt": "An image of 8 eggs in a natural scene."
+  },
+  "5941.jpg": {
+    "image_name": "5941.jpg",
+    "class_name": "eggs",
+    "count": 10,
+    "prompt": "An image of 10 eggs in a natural scene."
+  },
+  "5942.jpg": {
+    "image_name": "5942.jpg",
+    "class_name": "eggs",
+    "count": 10,
+    "prompt": "An image of 10 eggs in a natural scene."
+  },
+  "6274.jpg": {
+    "image_name": "6274.jpg",
+    "class_name": "apples",
+    "count": 10,
+    "prompt": "An image of 10 apples in a natural scene."
+  },
+  "6279.jpg": {
+    "image_name": "6279.jpg",
+    "class_name": "apples",
+    "count": 10,
+    "prompt": "An image of 10 apples in a natural scene."
+  },
+  "6659.jpg": {
+    "image_name": "6659.jpg",
+    "class_name": "markers",
+    "count": 9,
+    "prompt": "An image of 9 markers in a natural scene."
+  },
+  "6660.jpg": {
+    "image_name": "6660.jpg",
+    "class_name": "markers",
+    "count": 10,
+    "prompt": "An image of 10 markers in a natural scene."
+  },
+  "7679.jpg": {
+    "image_name": "7679.jpg",
+    "class_name": "deers",
+    "count": 10,
+    "prompt": "An image of 10 deers in a natural scene."
+  }
+}

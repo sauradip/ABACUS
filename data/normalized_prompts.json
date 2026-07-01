@@ -1,0 +1,3242 @@
+{
+  "countbench_0000": {
+    "prompt": "An image of 10 gaming headsets in a natural scene.",
+    "count": 10,
+    "category": "gaming headsets",
+    "original_prompt": "We review the ten best gaming headsets in the market"
+  },
+  "countbench_0001": {
+    "prompt": "An image of 3 bulbs in a natural scene.",
+    "count": 3,
+    "category": "bulbs",
+    "original_prompt": "background photo of three light bulbs"
+  },
+  "countbench_0002": {
+    "prompt": "An image of 3 prints in a natural scene.",
+    "count": 3,
+    "category": "prints",
+    "original_prompt": "City prints: Set of three big prints - $150.00 USD"
+  },
+  "countbench_0003": {
+    "prompt": "An image of 8 arrows in a natural scene.",
+    "count": 8,
+    "category": "arrows",
+    "original_prompt": "Set of eight arrows in all directions vector"
+  },
+  "countbench_0004": {
+    "prompt": "An image of 6 rogers pattern in a natural scene.",
+    "count": 6,
+    "category": "rogers pattern",
+    "original_prompt": "vintage silver plate tablespoons, serving spoon set of six 1847 Rogers pattern"
+  },
+  "countbench_0005": {
+    "prompt": "An image of 2 girls in a natural scene.",
+    "count": 2,
+    "category": "girls",
+    "original_prompt": "kids playing beach: Vintage color filltered of two cute little girls having fun blowing bubbles on beach in summer time Stock Photo"
+  },
+  "countbench_0006": {
+    "prompt": "An image of 4 parrots in a natural scene.",
+    "count": 4,
+    "category": "parrots",
+    "original_prompt": "Four colorful parrots - Illustration of the four colorful..."
+  },
+  "countbench_0007": {
+    "prompt": "An image of 7 dot marker in a natural scene.",
+    "count": 7,
+    "category": "dot marker",
+    "original_prompt": "A preview of seven printable dot marker coloring pages. Each page has a large 4th of July themed image with dots to color in with a dauber style marker."
+  },
+  "countbench_0008": {
+    "prompt": "An image of 4 foreshortenings in a natural scene.",
+    "count": 4,
+    "category": "foreshortenings",
+    "original_prompt": "Single green plastic food container isolated over the white background, set collection of four different foreshortenings"
+  },
+  "countbench_0009": {
+    "prompt": "An image of 9 bird in a natural scene.",
+    "count": 9,
+    "category": "bird",
+    "original_prompt": "Image of the nine bird and birdhouse patterns, wrapped on blocks instead of joined to make a full quilt. However, this product does come with the pieced quilt pattern."
+  },
+  "countbench_0010": {
+    "prompt": "An image of 2 seater flat in a natural scene.",
+    "count": 2,
+    "category": "seater flat",
+    "original_prompt": "RJR.John - Set of two 2 seater flat weave fabric 'Ravello' sofas"
+  },
+  "countbench_0011": {
+    "prompt": "An image of 3 fresh pure in a natural scene.",
+    "count": 3,
+    "category": "fresh pure",
+    "original_prompt": "three fresh pure white waterlilies floating on clear blue water - stock photo"
+  },
+  "countbench_0012": {
+    "prompt": "An image of 8 walnut queen in a natural scene.",
+    "count": 8,
+    "category": "walnut queen",
+    "original_prompt": "Set of eight walnut queen anne dining chairs for sale at for Dining room chairs queen anne"
+  },
+  "countbench_0013": {
+    "prompt": "An image of 8 eggs in a natural scene.",
+    "count": 8,
+    "category": "eggs",
+    "original_prompt": "A Barn Owl laid eight eggs in this box - the center one is hatching!"
+  },
+  "countbench_0014": {
+    "prompt": "An image of 9 golfers sink in a natural scene.",
+    "count": 9,
+    "category": "golfers sink",
+    "original_prompt": "Watch nine golfers sink putts into same hole"
+  },
+  "countbench_0015": {
+    "prompt": "An image of 2 giants in a natural scene.",
+    "count": 2,
+    "category": "giants",
+    "original_prompt": "The clash of two giants in serie-A"
+  },
+  "countbench_0016": {
+    "prompt": "An image of 4 inauguration outfits in a natural scene.",
+    "count": 4,
+    "category": "inauguration outfits",
+    "original_prompt": "A look at style queen Maxima's four inauguration outfits"
+  },
+  "countbench_0017": {
+    "prompt": "An image of 3 pigs in a natural scene.",
+    "count": 3,
+    "category": "pigs",
+    "original_prompt": "Three little pigs - cute pig - three pigs paper plate"
+  },
+  "countbench_0018": {
+    "prompt": "An image of 5 comic tuned in a natural scene.",
+    "count": 5,
+    "category": "comic tuned",
+    "original_prompt": "\"gabeturbo: Kia's Justice League of Superhero Cars: We Can Be Heroes  The five DC Comic-themed tuned cars are: the\u00a0Flash Forte Koup, Aquaman Rio 5-door, Cyborg Forte 5-door, Green Lantern Soul and the previously unveiled\u00a0Batman Optima. The Justice League models were created to support \"\"We Can Be Heroes\"\", which is DC Entertainment's charity designed to raise awareness and funds to fight the hunger crisis in the Horn of Africa.  (v\u00eda Carscoop)\""
+  },
+  "countbench_0019": {
+    "prompt": "An image of 9 aum in a natural scene.",
+    "count": 9,
+    "category": "aum",
+    "original_prompt": "Set of colorful nine aum in white background photo"
+  },
+  "countbench_0020": {
+    "prompt": "An image of 3 won vcs in a natural scene.",
+    "count": 3,
+    "category": "won vcs",
+    "original_prompt": "Heroes: Stanley (centre), William (left) and Lorne (right) at Buckingham Palace. All three won VCs"
+  },
+  "countbench_0021": {
+    "prompt": "An image of 6 matching in a natural scene.",
+    "count": 6,
+    "category": "matching",
+    "original_prompt": "dining table set 6 chairs leander high chair with three extension leaves and six matching"
+  },
+  "countbench_0022": {
+    "prompt": "An image of 9 buttons in a natural scene.",
+    "count": 9,
+    "category": "buttons",
+    "original_prompt": "biometric: Scanned finger Icon sign. symbol on nine round colourful buttons. Vector illustration Illustration"
+  },
+  "countbench_0023": {
+    "prompt": "An image of 2 pingpong rackets in a natural scene.",
+    "count": 2,
+    "category": "pingpong rackets",
+    "original_prompt": "two red pingpong rackets on white surface table tennis zoom background"
+  },
+  "countbench_0024": {
+    "prompt": "An image of 4 steps in a natural scene.",
+    "count": 4,
+    "category": "steps",
+    "original_prompt": "Image showing four steps of preparing homemade goulash in a pot."
+  },
+  "countbench_0025": {
+    "prompt": "An image of 5 felt star in a natural scene.",
+    "count": 5,
+    "category": "felt star",
+    "original_prompt": "A five Felt Star mini garland with one glitter star, star door hanger, grey nursery"
+  },
+  "countbench_0026": {
+    "prompt": "An image of 10 high back in a natural scene.",
+    "count": 10,
+    "category": "high back",
+    "original_prompt": "lucite dining room chairs set of ten high back lucite dining chairs for sale at 1stdibs"
+  },
+  "countbench_0027": {
+    "prompt": "An image of 10 objects in a natural scene.",
+    "count": 10,
+    "category": "objects",
+    "original_prompt": "d10 set of ten - Black"
+  },
+  "countbench_0028": {
+    "prompt": "An image of 10 young women in a natural scene.",
+    "count": 10,
+    "category": "young women",
+    "original_prompt": "Silhouette of ten young women, walking hand in hand."
+  },
+  "countbench_0029": {
+    "prompt": "An image of 5 kids in a natural scene.",
+    "count": 5,
+    "category": "kids",
+    "original_prompt": "Group of five kids standing outside in snow with mountain on background"
+  },
+  "countbench_0030": {
+    "prompt": "An image of 2 moth silhouettes in a natural scene.",
+    "count": 2,
+    "category": "moth silhouettes",
+    "original_prompt": "White poster with black border. In center, two moth silhouettes, one facing up and one facing down. Both silhouettes in black with auras made of concentric layers of purple, blue, green and yellow. Across bottom, on black border in white, Japanese text."
+  },
+  "countbench_0031": {
+    "prompt": "An image of 3 mini pumpkin in a natural scene.",
+    "count": 3,
+    "category": "mini pumpkin",
+    "original_prompt": "Sculpted with the pumpkin's great grooves and bright orange color, this set of three mini pumpkin candles makes a festive accent to the fall home or table."
+  },
+  "countbench_0032": {
+    "prompt": "An image of 7 chakras in a natural scene.",
+    "count": 7,
+    "category": "chakras",
+    "original_prompt": "\"The essential oil blends for all seven chakras from the chakra alignment therapy workshop, \"\"The 49 Professions of Joy,\"\" by personal trainer Jack.\""
+  },
+  "countbench_0033": {
+    "prompt": "An image of 10 stencils in a natural scene.",
+    "count": 10,
+    "category": "stencils",
+    "original_prompt": "Journal Stencils, Collection of ten stencils to create text, art and graphics for journals, travel books, bullet journals, day books, diary: alphabet, numbers, shapes, emojis, word bubbles, badges, pennants and weather icons."
+  },
+  "countbench_0034": {
+    "prompt": "An image of 5 steps in a natural scene.",
+    "count": 5,
+    "category": "steps",
+    "original_prompt": "Infographic template of five steps"
+  },
+  "countbench_0035": {
+    "prompt": "An image of 6 pose in a natural scene.",
+    "count": 6,
+    "category": "pose",
+    "original_prompt": "slam dunk collection with cool six pose"
+  },
+  "countbench_0036": {
+    "prompt": "An image of 4 blank in a natural scene.",
+    "count": 4,
+    "category": "blank",
+    "original_prompt": "Set of four blank vintage photos with clipping paths Stock Photo - 11557753"
+  },
+  "countbench_0037": {
+    "prompt": "An image of 4 forks in a natural scene.",
+    "count": 4,
+    "category": "forks",
+    "original_prompt": "forks with vegetables - four forks with different types of..."
+  },
+  "countbench_0038": {
+    "prompt": "An image of 9 original needle in a natural scene.",
+    "count": 9,
+    "category": "original needle",
+    "original_prompt": "Number zero icon sign nine original needle buttons vector"
+  },
+  "countbench_0039": {
+    "prompt": "An image of 7 bags filled in a natural scene.",
+    "count": 7,
+    "category": "bags filled",
+    "original_prompt": "The seven bags, filled with the Frankfurt artists artworks"
+  },
+  "countbench_0040": {
+    "prompt": "An image of 3 couples in a natural scene.",
+    "count": 3,
+    "category": "couples",
+    "original_prompt": "three couples in love at marine drive in space starved mumbai by kunal photo blog"
+  },
+  "countbench_0041": {
+    "prompt": "An image of 2 heavy weight in a natural scene.",
+    "count": 2,
+    "category": "heavy weight",
+    "original_prompt": "a serious businessman wearing a suit and lifting two heavy weight photo"
+  },
+  "countbench_0042": {
+    "prompt": "An image of 3 happy girlfriends in a natural scene.",
+    "count": 3,
+    "category": "happy girlfriends",
+    "original_prompt": "Three happy girlfriends, two blondes and the brunette, in sun glasses, are dressed in easy summer dresses, with bags in hands, go to a supermarket to do shopping, smile and pose for the photographer"
+  },
+  "countbench_0043": {
+    "prompt": "An image of 5 types in a natural scene.",
+    "count": 5,
+    "category": "types",
+    "original_prompt": "The five types of Pacific salmon, sitka, alaska"
+  },
+  "countbench_0044": {
+    "prompt": "An image of 9 labels in a natural scene.",
+    "count": 9,
+    "category": "labels",
+    "original_prompt": "very important person: Vip sign icon. Membership symbol. Very important person. A set of nine different colored labels. Vector illustration"
+  },
+  "countbench_0045": {
+    "prompt": "An image of 8 cities in a natural scene.",
+    "count": 8,
+    "category": "cities",
+    "original_prompt": "World Time Zones, eight different cities"
+  },
+  "countbench_0046": {
+    "prompt": "An image of 4 banners in a natural scene.",
+    "count": 4,
+    "category": "banners",
+    "original_prompt": "four banners for cafe in retro style Stock Vector - 15176539"
+  },
+  "countbench_0047": {
+    "prompt": "An image of 6 step in a natural scene.",
+    "count": 6,
+    "category": "step",
+    "original_prompt": "Wooden chest, six step by step draw chest."
+  },
+  "countbench_0048": {
+    "prompt": "An image of 2 glass star in a natural scene.",
+    "count": 2,
+    "category": "glass star",
+    "original_prompt": "set of two glass star christmas tree decorations amazoncouk kitchen home"
+  },
+  "countbench_0049": {
+    "prompt": "An image of 5 founders in a natural scene.",
+    "count": 5,
+    "category": "founders",
+    "original_prompt": "The five founders of Kappa Sigma: George, John, William, Frank, and Edmond"
+  },
+  "countbench_0050": {
+    "prompt": "An image of 9 globe in a natural scene.",
+    "count": 9,
+    "category": "globe",
+    "original_prompt": "Globe icons. - Set of nine globe icons."
+  },
+  "countbench_0051": {
+    "prompt": "An image of 7 posters in a natural scene.",
+    "count": 7,
+    "category": "posters",
+    "original_prompt": "magnificent seven posters 4"
+  },
+  "countbench_0052": {
+    "prompt": "An image of 4 pack in a natural scene.",
+    "count": 4,
+    "category": "pack",
+    "original_prompt": "Cotton blend four pack of mens socks"
+  },
+  "countbench_0053": {
+    "prompt": "An image of 5 members in a natural scene.",
+    "count": 5,
+    "category": "members",
+    "original_prompt": "Monty Python's surviving five members."
+  },
+  "countbench_0054": {
+    "prompt": "An image of 4 snails in a natural scene.",
+    "count": 4,
+    "category": "snails",
+    "original_prompt": "Illustration of the four snails with different shells on a white background"
+  },
+  "countbench_0055": {
+    "prompt": "An image of 4 crochet potholders in a natural scene.",
+    "count": 4,
+    "category": "crochet potholders",
+    "original_prompt": "four crochet potholders"
+  },
+  "countbench_0056": {
+    "prompt": "An image of 10 christmas cards in a natural scene.",
+    "count": 10,
+    "category": "christmas cards",
+    "original_prompt": "Set of ten Christmas Cards Royalty Free Stock Images"
+  },
+  "countbench_0057": {
+    "prompt": "An image of 2 double beds in a natural scene.",
+    "count": 2,
+    "category": "double beds",
+    "original_prompt": "A well furnished bedroom with two double beds a television and balcony."
+  },
+  "countbench_0058": {
+    "prompt": "An image of 9 cincinnati all in a natural scene.",
+    "count": 9,
+    "category": "cincinnati all",
+    "original_prompt": "Digital illustration of nine Cincinnati's All-Time Reds Greats, Frank, Chuck, Gus, Wally, Ernie, Paul, Ted, Ed, and Johnny!!"
+  },
+  "countbench_0059": {
+    "prompt": "An image of 9 labels in a natural scene.",
+    "count": 9,
+    "category": "labels",
+    "original_prompt": "the unit: Central Processing Unit icon sign. A set of nine different colored labels. illustration Stock Photo"
+  },
+  "countbench_0060": {
+    "prompt": "An image of 9 objects in a natural scene.",
+    "count": 9,
+    "category": "objects",
+    "original_prompt": "Bike icon sign symbol on nine round colourful vector"
+  },
+  "countbench_0061": {
+    "prompt": "An image of 7 american league in a natural scene.",
+    "count": 7,
+    "category": "american league",
+    "original_prompt": "Seven of the American League All-Star players, from left to right Lou, Joe, Bill, Joe, Charlie, Jimmie, and Hank. All seven would eventually be elected to the Hall of Fame. (Source: Library of Congress)"
+  },
+  "countbench_0062": {
+    "prompt": "An image of 4 cars pictured in a natural scene.",
+    "count": 4,
+    "category": "cars pictured",
+    "original_prompt": "Life of luxury: Trail's home in Little Aston, Sutton Coldfield, Birmingham, with four cars pictured in the driveway"
+  },
+  "countbench_0063": {
+    "prompt": "An image of 2 cartoon trees in a natural scene.",
+    "count": 2,
+    "category": "cartoon trees",
+    "original_prompt": "The illustration of two cartoon trees"
+  },
+  "countbench_0064": {
+    "prompt": "An image of 3 men orleans in a natural scene.",
+    "count": 3,
+    "category": "men orleans",
+    "original_prompt": "three men new orleans by jules"
+  },
+  "countbench_0065": {
+    "prompt": "An image of 4 tree rings in a natural scene.",
+    "count": 4,
+    "category": "tree rings",
+    "original_prompt": "Set of four tree rings background and saw cut tree trunk"
+  },
+  "countbench_0066": {
+    "prompt": "An image of 6 female face in a natural scene.",
+    "count": 6,
+    "category": "female face",
+    "original_prompt": "face expressions - six female face expressions on the white..."
+  },
+  "countbench_0067": {
+    "prompt": "An image of 10 cab chairs in a natural scene.",
+    "count": 10,
+    "category": "cab chairs",
+    "original_prompt": "Mario, 'Set of ten Cab chairs, two arm-, eight side-', 1980s"
+  },
+  "countbench_0068": {
+    "prompt": "An image of 9 objects in a natural scene.",
+    "count": 9,
+    "category": "objects",
+    "original_prompt": "Puzzle piece icon sign Symbol on nine round vector"
+  },
+  "countbench_0069": {
+    "prompt": "An image of 2 banners in a natural scene.",
+    "count": 2,
+    "category": "banners",
+    "original_prompt": "postcard background: set two banners of green spruce with computer and motherboard elements for technology concept"
+  },
+  "countbench_0070": {
+    "prompt": "An image of 8 directors in a natural scene.",
+    "count": 8,
+    "category": "directors",
+    "original_prompt": "PwC Romania announces the promotion of eight Directors in Tax, Assurance and Advisory departments"
+  },
+  "countbench_0071": {
+    "prompt": "An image of 6 hoop in a natural scene.",
+    "count": 6,
+    "category": "hoop",
+    "original_prompt": "Mood - Multi tone pack of six hoop and stud earring set"
+  },
+  "countbench_0072": {
+    "prompt": "An image of 10 male cosmonauts in a natural scene.",
+    "count": 10,
+    "category": "male cosmonauts",
+    "original_prompt": "Valentina, first woman in space, surrounded by ten male cosmonauts. She is second from left in the front row."
+  },
+  "countbench_0073": {
+    "prompt": "An image of 3 tomatoes in a natural scene.",
+    "count": 3,
+    "category": "tomatoes",
+    "original_prompt": "Two cucumbers and three tomatoes on gray wooden background"
+  },
+  "countbench_0074": {
+    "prompt": "An image of 6 dining chairs in a natural scene.",
+    "count": 6,
+    "category": "dining chairs",
+    "original_prompt": "Moller #71 Chair. Set of six dining chairs in Rosewood."
+  },
+  "countbench_0075": {
+    "prompt": "An image of 7 prints in a natural scene.",
+    "count": 7,
+    "category": "prints",
+    "original_prompt": "Robert, Polygon Suite (A set of seven prints)"
+  },
+  "countbench_0076": {
+    "prompt": "An image of 8 ice creams in a natural scene.",
+    "count": 8,
+    "category": "ice creams",
+    "original_prompt": "eight ice creams"
+  },
+  "countbench_0077": {
+    "prompt": "An image of 6 solid salad in a natural scene.",
+    "count": 6,
+    "category": "solid salad",
+    "original_prompt": "six solid yellow salad plates, vintage ceramic Harlequin Homer Laughlin china"
+  },
+  "countbench_0078": {
+    "prompt": "An image of 2 sumo wrestlers in a natural scene.",
+    "count": 2,
+    "category": "sumo wrestlers",
+    "original_prompt": "Detail of original image: two sumo wrestlers walk down a busy street in Shibuya district, Tokyo."
+  },
+  "countbench_0079": {
+    "prompt": "An image of 4 compositions in a natural scene.",
+    "count": 4,
+    "category": "compositions",
+    "original_prompt": "Garbage design concept with four square compositions of flat waste recycling and cleaning images and pictograms vector illustration"
+  },
+  "countbench_0080": {
+    "prompt": "An image of 6 colors lot in a natural scene.",
+    "count": 6,
+    "category": "colors lot",
+    "original_prompt": "Six Colors/Lot PVC Vinyl from Korea, PVC heat transfer film High Quality and Wholesale Price six crows"
+  },
+  "countbench_0081": {
+    "prompt": "An image of 9 objects in a natural scene.",
+    "count": 9,
+    "category": "objects",
+    "original_prompt": "colorful fruit collage of nine photos"
+  },
+  "countbench_0082": {
+    "prompt": "An image of 8 shirt in a natural scene.",
+    "count": 8,
+    "category": "shirt",
+    "original_prompt": "Jimmy wears eight different shirt and tie combos with his blue suit during the first season."
+  },
+  "countbench_0083": {
+    "prompt": "An image of 9 objects in a natural scene.",
+    "count": 9,
+    "category": "objects",
+    "original_prompt": "shield icon sign Symbol on nine round colourful vector image"
+  },
+  "countbench_0084": {
+    "prompt": "An image of 7 bottles in a natural scene.",
+    "count": 7,
+    "category": "bottles",
+    "original_prompt": "set of seven bottles of water isolated on white background with a different set of covers"
+  },
+  "countbench_0085": {
+    "prompt": "An image of 2 dazzling mirrors in a natural scene.",
+    "count": 2,
+    "category": "dazzling mirrors",
+    "original_prompt": "Benzara - Mirror Assorted with Lacquered Finish - Set of 2 - This set of mirrors is high on utility as well as a stylish addition to your room. The set consists of two dazzling mirrors framed in high quality wood that comes with the endurance to last for a long time. The wood surface is finished with lacquer that adds good sheen and visual appeal to the overall piece. Made from high quality glass, it produces crystal clear images and reflections without blurs. The mirrors can be placed conveniently on the dressing table, hung on the wall and used with utmost efficiency. You can easily wipe and clean the mirror easily with a cloth and avoid dust and scratches. The perfect finish combined with attractive features enhances the aesthetic appeal and make this mirror a worthy possession."
+  },
+  "countbench_0086": {
+    "prompt": "An image of 7 groomsmen in a natural scene.",
+    "count": 7,
+    "category": "groomsmen",
+    "original_prompt": "seven groomsmen at the ceremony"
+  },
+  "countbench_0087": {
+    "prompt": "An image of 10 favorite movie in a natural scene.",
+    "count": 10,
+    "category": "favorite movie",
+    "original_prompt": "top 10 musicals film the guardian 31 days of music top ten favorite movie musicals"
+  },
+  "countbench_0088": {
+    "prompt": "An image of 10 pumpkins in a natural scene.",
+    "count": 10,
+    "category": "pumpkins",
+    "original_prompt": "Illustration of the ten pumpkins with different emotions on a white background Vector"
+  },
+  "countbench_0089": {
+    "prompt": "An image of 5 lederhosen attired in a natural scene.",
+    "count": 5,
+    "category": "lederhosen attired",
+    "original_prompt": "five lederhosen attired polka musicians with instruments"
+  },
+  "countbench_0090": {
+    "prompt": "An image of 5 british shorthair in a natural scene.",
+    "count": 5,
+    "category": "british shorthair",
+    "original_prompt": "Row of five British Shorthair cats / kittens sitting on a wooden tray isolated on white background / looking ate - Stock Image"
+  },
+  "countbench_0091": {
+    "prompt": "An image of 7 french heineken in a natural scene.",
+    "count": 7,
+    "category": "french heineken",
+    "original_prompt": "The captains of the seven French Heineken Cup sides stand alongside the silverware"
+  },
+  "countbench_0092": {
+    "prompt": "An image of 7 styles in a natural scene.",
+    "count": 7,
+    "category": "styles",
+    "original_prompt": "Line up of seven different styles of Bean Boots"
+  },
+  "countbench_0093": {
+    "prompt": "An image of 6 members in a natural scene.",
+    "count": 6,
+    "category": "members",
+    "original_prompt": "Original six members of the Black Panther Party in November, 1966"
+  },
+  "countbench_0094": {
+    "prompt": "An image of 5 pack in a natural scene.",
+    "count": 5,
+    "category": "pack",
+    "original_prompt": "This five pack of the Incredible Junior Supers"
+  },
+  "countbench_0095": {
+    "prompt": "An image of 7 moai in a natural scene.",
+    "count": 7,
+    "category": "moai",
+    "original_prompt": "The seven moai at Ahu Akivi, unusual in that they face the sea"
+  },
+  "countbench_0096": {
+    "prompt": "An image of 9 revolver in a natural scene.",
+    "count": 9,
+    "category": "revolver",
+    "original_prompt": "bullets: Set of nine icons (revolver)."
+  },
+  "countbench_0097": {
+    "prompt": "An image of 6 more cats in a natural scene.",
+    "count": 6,
+    "category": "more cats",
+    "original_prompt": "Are you ready for Part 2 of Coloring YOUR Cats! Check out these kitties! I colored six more cats based on photos submitted by followers. Watch how I colored them with colored pencils at the link in my bio. #kwernerdesigncards"
+  },
+  "countbench_0098": {
+    "prompt": "An image of 4 variants in a natural scene.",
+    "count": 4,
+    "category": "variants",
+    "original_prompt": "royal background: Damask seamless wallpaper in four variants - shades of blue Illustration"
+  },
+  "countbench_0099": {
+    "prompt": "An image of 5 holiday nail in a natural scene.",
+    "count": 5,
+    "category": "holiday nail",
+    "original_prompt": "five 5 holiday nail polishes"
+  },
+  "countbench_0100": {
+    "prompt": "An image of 4 bumble bee in a natural scene.",
+    "count": 4,
+    "category": "bumble bee",
+    "original_prompt": "A cartoon vector illustration  set of four cute bumble bee."
+  },
+  "countbench_0101": {
+    "prompt": "An image of 8 sport tickets in a natural scene.",
+    "count": 8,
+    "category": "sport tickets",
+    "original_prompt": "Collection of eight vector sport tickets templates in colorful vintage look."
+  },
+  "countbench_0102": {
+    "prompt": "An image of 6 recruits bbc in a natural scene.",
+    "count": 6,
+    "category": "recruits bbc",
+    "original_prompt": "Andre (centre) with the six new recruits (BBC)"
+  },
+  "countbench_0103": {
+    "prompt": "An image of 2 metal loops in a natural scene.",
+    "count": 2,
+    "category": "metal loops",
+    "original_prompt": "\"Benzara - Metal Wine Holder with Traditional Cork-Opener Accent - Elegant and classic, this Metal Wine Holder offers versatile usage with its sturdy design. Weathered accents on the rich matte finished design enhance the visual appeal, and lend a touch of finesse to settings. The wine holder is detailed with a traditional cork-opener accent with a twisted design, which gives it a quaint, vintage appeal. Featuring two metal loops, this wine holder can accommodate two bottles and makes for a wonderful display option in your bar area. Styled to offer versatile functionality, this metal wine holder is a wonderful combination of classic art and elegance. Crafted from metal, this wine holder offers durable usage and features a rich, burnished texture for a stylish look. The attractive design of this wine holder is resistant to easy wear and damage due to its solid metal construction.; Features a rich, burnished texture; Weathered accents on the rich matte finish; Has a traditional cork-opener accent; Can accommodate two bottles; Weight: 1.32 lbs; Dimensions:10\"\"W x 5\"\"D x 15\"\"H\""
+  },
+  "countbench_0104": {
+    "prompt": "An image of 10 couples silhouettes in a natural scene.",
+    "count": 10,
+    "category": "couples silhouettes",
+    "original_prompt": "ten couples silhouettes vector image vector image"
+  },
+  "countbench_0105": {
+    "prompt": "An image of 4 owl in a natural scene.",
+    "count": 4,
+    "category": "owl",
+    "original_prompt": "four different owl illustrations"
+  },
+  "countbench_0106": {
+    "prompt": "An image of 10 platforms in a natural scene.",
+    "count": 10,
+    "category": "platforms",
+    "original_prompt": "Holly & Martin - Preston Candelabra - This glamorous metal candelabra is the perfect feature to adorn any shelf or mantel. With ten platforms to hold candles and a sturdy base, this metal candelabra will add warmth and a gentle glow to any room in your home. The candelabra is constructed of two rows, five platforms in the front for candles and five platforms for candles in the back."
+  },
+  "countbench_0107": {
+    "prompt": "An image of 6 flowers in a natural scene.",
+    "count": 6,
+    "category": "flowers",
+    "original_prompt": "Set of six flowers in pots blue background card vector"
+  },
+  "countbench_0108": {
+    "prompt": "An image of 7 brazil rio in a natural scene.",
+    "count": 7,
+    "category": "brazil rio",
+    "original_prompt": "Lot of seven Brazil (Rio mint) copper coins of Joao VI: XX reis, 1821-R (two), 1822-R (two); X reis,"
+  },
+  "countbench_0109": {
+    "prompt": "An image of 2 designer glass in a natural scene.",
+    "count": 2,
+    "category": "designer glass",
+    "original_prompt": "Star by Julien - Set of two designer glass glitter swirl placemats"
+  },
+  "countbench_0110": {
+    "prompt": "An image of 6 fashionable girls in a natural scene.",
+    "count": 6,
+    "category": "fashionable girls",
+    "original_prompt": "Company of six fashionable beautiful girls in bright swimsuits with beach attributes. Vector modern illustration Illustration"
+  },
+  "countbench_0111": {
+    "prompt": "An image of 7 beer bottles in a natural scene.",
+    "count": 7,
+    "category": "beer bottles",
+    "original_prompt": "Row from  seven beer bottles. Isolated on white background"
+  },
+  "countbench_0112": {
+    "prompt": "An image of 8 attractive colors in a natural scene.",
+    "count": 8,
+    "category": "attractive colors",
+    "original_prompt": "aksesoris grand new avanza 2015 kijang innova spesifikasi in eight attractive colors youtube"
+  },
+  "countbench_0113": {
+    "prompt": "An image of 5 candidates in a natural scene.",
+    "count": 5,
+    "category": "candidates",
+    "original_prompt": "\"The top five candidates for \"\"On Her Majesty's Secret Service,\"\" including the final choice of George, are shown in a composite image published in the October 11, 1968, issue of Life. Click through the gallery to view images from behind the scenes as the candidates auditioned to replace Sean.\""
+  },
+  "countbench_0114": {
+    "prompt": "An image of 3 candles in a natural scene.",
+    "count": 3,
+    "category": "candles",
+    "original_prompt": "three candles"
+  },
+  "countbench_0115": {
+    "prompt": "An image of 5 kinds set in a natural scene.",
+    "count": 5,
+    "category": "kinds set",
+    "original_prompt": "<font color=#4bb999>* JKIDS 2017 *</font> <br> Haha Sox five kinds SET"
+  },
+  "countbench_0116": {
+    "prompt": "An image of 2 upvc doors in a natural scene.",
+    "count": 2,
+    "category": "upvc doors",
+    "original_prompt": "Perfect-fit-Venetian Blinds in slat 4642-25-amo-trend fitted to two UPVC doors"
+  },
+  "countbench_0117": {
+    "prompt": "An image of 4 seamless floral in a natural scene.",
+    "count": 4,
+    "category": "seamless floral",
+    "original_prompt": "set of four seamless red floral pattern vector image"
+  },
+  "countbench_0118": {
+    "prompt": "An image of 6 colors set in a natural scene.",
+    "count": 6,
+    "category": "colors set",
+    "original_prompt": "Silver shiny icons - six colors vector set - eps10 Vector"
+  },
+  "countbench_0119": {
+    "prompt": "An image of 10 dice in a natural scene.",
+    "count": 10,
+    "category": "dice",
+    "original_prompt": "d10 set of ten green dice"
+  },
+  "countbench_0120": {
+    "prompt": "An image of 9 abstract bicycles in a natural scene.",
+    "count": 9,
+    "category": "abstract bicycles",
+    "original_prompt": "set of nine abstract bicycles Ilustrace"
+  },
+  "countbench_0121": {
+    "prompt": "An image of 7 dwarfs walk in a natural scene.",
+    "count": 7,
+    "category": "dwarfs walk",
+    "original_prompt": "The seven dwarfs walk by."
+  },
+  "countbench_0122": {
+    "prompt": "An image of 9 emblems labels in a natural scene.",
+    "count": 9,
+    "category": "emblems labels",
+    "original_prompt": "Ufo and aliens collection of nine emblems, labels, badges, stickers and prints isolated on white background. Vector illustration in vintage style"
+  },
+  "countbench_0123": {
+    "prompt": "An image of 9 objects in a natural scene.",
+    "count": 9,
+    "category": "objects",
+    "original_prompt": "Cocktail martini alcohol drink icon sign nine vector"
+  },
+  "countbench_0124": {
+    "prompt": "An image of 6 objects in a natural scene.",
+    "count": 6,
+    "category": "objects",
+    "original_prompt": "1970-76 2p Cylinder 1 block of six"
+  },
+  "countbench_0125": {
+    "prompt": "An image of 6 amusing pumpkins in a natural scene.",
+    "count": 6,
+    "category": "amusing pumpkins",
+    "original_prompt": "Halloween set of six amusing orange pumpkins with various face characters isolated on a white background, cartoon vector illustration"
+  },
+  "countbench_0126": {
+    "prompt": "An image of 5 pokemon game in a natural scene.",
+    "count": 5,
+    "category": "pokemon game",
+    "original_prompt": "Mix order Top selling  five Pokemon Game for GBA  :Emerald, Fire Red, Leaf Green, Ruby and Sapphire 20pcs free via EMS or DHL"
+  },
+  "countbench_0127": {
+    "prompt": "An image of 6 chippendale style in a natural scene.",
+    "count": 6,
+    "category": "chippendale style",
+    "original_prompt": "set of six chippendale style ribbon back dining room"
+  },
+  "countbench_0128": {
+    "prompt": "An image of 4 stemless wine in a natural scene.",
+    "count": 4,
+    "category": "stemless wine",
+    "original_prompt": "LSA Wine set of four stemless red wine glasses"
+  },
+  "countbench_0129": {
+    "prompt": "An image of 8 bottles in a natural scene.",
+    "count": 8,
+    "category": "bottles",
+    "original_prompt": "eight bottles of aguardiente on a counter"
+  },
+  "countbench_0130": {
+    "prompt": "An image of 10 coins three in a natural scene.",
+    "count": 10,
+    "category": "coins three",
+    "original_prompt": "reverse: Greek Italy and Roman Republic. Multiple lot of ten (10) coins: three (3) AR (but one fourr\u00e9e) and seven (7) AE"
+  },
+  "countbench_0131": {
+    "prompt": "An image of 3 gears in a natural scene.",
+    "count": 3,
+    "category": "gears",
+    "original_prompt": "Conceptual three gears with Earth globes - 3d render"
+  },
+  "countbench_0132": {
+    "prompt": "An image of 9 lilies in a natural scene.",
+    "count": 9,
+    "category": "lilies",
+    "original_prompt": "Colorful set of nine colorful Lilies and three Irises. Vector."
+  },
+  "countbench_0133": {
+    "prompt": "An image of 4 types in a natural scene.",
+    "count": 4,
+    "category": "types",
+    "original_prompt": "all four types of crisps"
+  },
+  "countbench_0134": {
+    "prompt": "An image of 8 bridesmaids in a natural scene.",
+    "count": 8,
+    "category": "bridesmaids",
+    "original_prompt": "Smoke gray one-shouldered dresses created a sophisticated and dramatic look for Melissa's eight bridesmaids."
+  },
+  "countbench_0135": {
+    "prompt": "An image of 7 plastic apples in a natural scene.",
+    "count": 7,
+    "category": "plastic apples",
+    "original_prompt": "A set of seven red plastic apples on a white background"
+  },
+  "countbench_0136": {
+    "prompt": "An image of 4 multicoloured bowls in a natural scene.",
+    "count": 4,
+    "category": "multicoloured bowls",
+    "original_prompt": "Queens - Set of four multicoloured 'Penzance' small bowls"
+  },
+  "countbench_0137": {
+    "prompt": "An image of 2 women check in a natural scene.",
+    "count": 2,
+    "category": "women check",
+    "original_prompt": "New York, New York: c. 1928 Two women check out some of the items for sale, including two large dolls up above at the U.S"
+  },
+  "countbench_0138": {
+    "prompt": "An image of 10 photographs in a natural scene.",
+    "count": 10,
+    "category": "photographs",
+    "original_prompt": "\", 'Portfolio of ten 11\"\" x 14\"\" photographs ,' , Roman Fine Art\""
+  },
+  "countbench_0139": {
+    "prompt": "An image of 7 warning signs in a natural scene.",
+    "count": 7,
+    "category": "warning signs",
+    "original_prompt": "Set of seven yellow warning signs - stock vector"
+  },
+  "countbench_0140": {
+    "prompt": "An image of 3 children in a natural scene.",
+    "count": 3,
+    "category": "children",
+    "original_prompt": "ms, usa, maine, yarmouth, three children (2-3, 4-5, 6-7) playing in backyard sprinkler - lawn stock videos & royalty-free footage"
+  },
+  "countbench_0141": {
+    "prompt": "An image of 4 riders took in a natural scene.",
+    "count": 4,
+    "category": "riders took",
+    "original_prompt": "last month, these four riders took an unusual route on their annual Independence Day ride. check out the article on our site (or click the link on our bio) and take a peek at the amazing photos taken by @username."
+  },
+  "countbench_0142": {
+    "prompt": "An image of 3 women ski in a natural scene.",
+    "count": 3,
+    "category": "women ski",
+    "original_prompt": "The top three in Women's Ski Slopestyle finals, from left: Dara, Kaya and Anna. Kaya's win was her sixth straight gold medal at a Winter X event."
+  },
+  "countbench_0143": {
+    "prompt": "An image of 2 eames rar in a natural scene.",
+    "count": 2,
+    "category": "eames rar",
+    "original_prompt": "set of two eames rar chairs black. Black Bedroom Furniture Sets. Home Design Ideas"
+  },
+  "countbench_0144": {
+    "prompt": "An image of 10 giraffe portraits in a natural scene.",
+    "count": 10,
+    "category": "giraffe portraits",
+    "original_prompt": "Photo  Set of ten giraffe portraits, isolated on white background"
+  },
+  "countbench_0145": {
+    "prompt": "An image of 5 rising academy in a natural scene.",
+    "count": 5,
+    "category": "rising academy",
+    "original_prompt": "Liverpool's next five rising academy stars to watch"
+  },
+  "countbench_0146": {
+    "prompt": "An image of 6 types in a natural scene.",
+    "count": 6,
+    "category": "types",
+    "original_prompt": "Nurse male six types of poses and facial expressions of the white coat"
+  },
+  "countbench_0147": {
+    "prompt": "An image of 10 people in a natural scene.",
+    "count": 10,
+    "category": "people",
+    "original_prompt": "Our creative team of ten people with occupations icons"
+  },
+  "countbench_0148": {
+    "prompt": "An image of 8 remaining couples in a natural scene.",
+    "count": 8,
+    "category": "remaining couples",
+    "original_prompt": "The eight remaining couples on 'Dancing With The Stars' week 6"
+  },
+  "countbench_0149": {
+    "prompt": "An image of 4 car in a natural scene.",
+    "count": 4,
+    "category": "car",
+    "original_prompt": "Classic car set stock photo, Set of four classic car illustration by Sreedhar"
+  },
+  "countbench_0150": {
+    "prompt": "An image of 7 ripe apples in a natural scene.",
+    "count": 7,
+    "category": "ripe apples",
+    "original_prompt": "Team of seven ripe apples on white background"
+  },
+  "countbench_0151": {
+    "prompt": "An image of 5 smartphones launched in a natural scene.",
+    "count": 5,
+    "category": "smartphones launched",
+    "original_prompt": "Top five smartphones launched in September"
+  },
+  "countbench_0152": {
+    "prompt": "An image of 9 miniature roses in a natural scene.",
+    "count": 9,
+    "category": "miniature roses",
+    "original_prompt": "American Box entry of nine miniature roses"
+  },
+  "countbench_0153": {
+    "prompt": "An image of 2 african sophomores in a natural scene.",
+    "count": 2,
+    "category": "african sophomores",
+    "original_prompt": "Joshua (left) and Alexander are the 2013 Hill-Stephens Scholars, an honor awarded to two African-American sophomores or juniors at Harvard College."
+  },
+  "countbench_0154": {
+    "prompt": "An image of 10 greetings cards in a natural scene.",
+    "count": 10,
+    "category": "greetings cards",
+    "original_prompt": "Photograph by Jane of ten greetings cards of Otford, Kent"
+  },
+  "countbench_0155": {
+    "prompt": "An image of 3 guitars in a natural scene.",
+    "count": 3,
+    "category": "guitars",
+    "original_prompt": "three guitars vector image"
+  },
+  "countbench_0156": {
+    "prompt": "An image of 8 iron man in a natural scene.",
+    "count": 8,
+    "category": "iron man",
+    "original_prompt": "SDCC 2012: Agent M poses with the eight Iron Man Armors"
+  },
+  "countbench_0157": {
+    "prompt": "An image of 7 world greatest in a natural scene.",
+    "count": 7,
+    "category": "world greatest",
+    "original_prompt": "\"THE ILLUSIONISTS - LIVE ON BROADWAY   This fast-paced, wildly entertaining show, featuring seven of the world's greatest magicians, broke box records when it made its Broadway debut last year. Families flocked to see mind-blowing magic, death-defying stunts and acts of breathtaking wonder in the show The New York Times called \"\"A high-tech magic extravaganza\"\" and NY1 called \"\"Awesome. A solid 10!\"\"\u00a0  Raymond has performed with 'The Illusionists' since 2014 with sold out gigs across the world. In fact he is the only Australian magician to perform on Broadway!  The tours included:   Sydney Opera House, New York,   Paris,   Amsterdam,   Moscow,   Berlin,   Strasbourg,   Antwerp,   Gent,   Lyon,   Dublin,   Wolfsburg,   Toronto,   Auckland,   Dubai and A  bu Dhabi.\""
+  },
+  "countbench_0158": {
+    "prompt": "An image of 3 discs in a natural scene.",
+    "count": 3,
+    "category": "discs",
+    "original_prompt": "Collection of three cd discs on digital background"
+  },
+  "countbench_0159": {
+    "prompt": "An image of 5 guys in a natural scene.",
+    "count": 5,
+    "category": "guys",
+    "original_prompt": "Blue October Press Photo; black & white image of five guys, the one in forefront holding bouquet of tulips. They're standing on a street in a city"
+  },
+  "countbench_0160": {
+    "prompt": "An image of 9 objects in a natural scene.",
+    "count": 9,
+    "category": "objects",
+    "original_prompt": "Power icon sign symbol on nine round colourful vector"
+  },
+  "countbench_0161": {
+    "prompt": "An image of 5 solid oak in a natural scene.",
+    "count": 5,
+    "category": "solid oak",
+    "original_prompt": "five solid oak dining chairs by maurice pr france 1950s"
+  },
+  "countbench_0162": {
+    "prompt": "An image of 3 objects in a natural scene.",
+    "count": 3,
+    "category": "objects",
+    "original_prompt": "Vintage Crocheted Doilies Pot Holders set of three"
+  },
+  "countbench_0163": {
+    "prompt": "An image of 6 wmk inverted in a natural scene.",
+    "count": 6,
+    "category": "wmk inverted",
+    "original_prompt": "1911 1d booklet pane of six WMK INVERTED"
+  },
+  "countbench_0164": {
+    "prompt": "An image of 4 bookmarks in a natural scene.",
+    "count": 4,
+    "category": "bookmarks",
+    "original_prompt": "Set of four bookmarks in black and white. Doodles flowers and ornaments for adult coloring book. Vector illustration."
+  },
+  "countbench_0165": {
+    "prompt": "An image of 8 portraits hung in a natural scene.",
+    "count": 8,
+    "category": "portraits hung",
+    "original_prompt": "A woman stands before eight colorful portraits hung in two rows of four."
+  },
+  "countbench_0166": {
+    "prompt": "An image of 3 girls raised in a natural scene.",
+    "count": 3,
+    "category": "girls raised",
+    "original_prompt": "three girls raised their glasses in a nightclub"
+  },
+  "countbench_0167": {
+    "prompt": "An image of 9 labels in a natural scene.",
+    "count": 9,
+    "category": "labels",
+    "original_prompt": "A set of nine labels for the summer season in blue and yellow. Stock Vector - 20445318"
+  },
+  "countbench_0168": {
+    "prompt": "An image of 9 geometric mandala in a natural scene.",
+    "count": 9,
+    "category": "geometric mandala",
+    "original_prompt": "Set of nine geometric colorful mandala vector"
+  },
+  "countbench_0169": {
+    "prompt": "An image of 6 women isolated in a natural scene.",
+    "count": 6,
+    "category": "women isolated",
+    "original_prompt": "Dancing silhouettes of six women isolated on white \u2014 Stock Vector #4983725"
+  },
+  "countbench_0170": {
+    "prompt": "An image of 2 quot in a natural scene.",
+    "count": 2,
+    "category": "quot",
+    "original_prompt": "blue peacock birds set of two 11 quot"
+  },
+  "countbench_0171": {
+    "prompt": "An image of 7 rose in a natural scene.",
+    "count": 7,
+    "category": "rose",
+    "original_prompt": "seven pink rose decoration"
+  },
+  "countbench_0172": {
+    "prompt": "An image of 5 cars one in a natural scene.",
+    "count": 5,
+    "category": "cars one",
+    "original_prompt": "Meet the MINI family five cars, one spirit"
+  },
+  "countbench_0173": {
+    "prompt": "An image of 5 children together in a natural scene.",
+    "count": 5,
+    "category": "children together",
+    "original_prompt": "Doting parents:\u00a0Tori and her husband Dean married in 2006 and share five children together: Liam, 12, Stella, 11, Hattie, eight, Finn, seven, and Beau, two"
+  },
+  "countbench_0174": {
+    "prompt": "An image of 6 italian lacquer in a natural scene.",
+    "count": 6,
+    "category": "italian lacquer",
+    "original_prompt": "italian black lacquer dining chairs at 1stdibs six italian black lacquer chinese chippendale dining"
+  },
+  "countbench_0175": {
+    "prompt": "An image of 9 objects in a natural scene.",
+    "count": 9,
+    "category": "objects",
+    "original_prompt": "Text file icon sign symbol on nine round colourful vector"
+  },
+  "countbench_0176": {
+    "prompt": "An image of 4 undersea animals in a natural scene.",
+    "count": 4,
+    "category": "undersea animals",
+    "original_prompt": "Lovely sets of sea life canvas art with amazing artistic display of four different undersea animals. Easy to hang, original and durable."
+  },
+  "countbench_0177": {
+    "prompt": "An image of 4 cards in a natural scene.",
+    "count": 4,
+    "category": "cards",
+    "original_prompt": "Still IMAGE - four cards with kings"
+  },
+  "countbench_0178": {
+    "prompt": "An image of 8 bell pepper in a natural scene.",
+    "count": 8,
+    "category": "bell pepper",
+    "original_prompt": "eight bell pepper halves (red, yellow, and orange) with their seeds and ribbing removed on a baking sheet waiting to be filled"
+  },
+  "countbench_0179": {
+    "prompt": "An image of 5 pigs in a natural scene.",
+    "count": 5,
+    "category": "pigs",
+    "original_prompt": "Studies of five pigs, lying down, by James"
+  },
+  "countbench_0180": {
+    "prompt": "An image of 3 student girl in a natural scene.",
+    "count": 3,
+    "category": "student girl",
+    "original_prompt": "Success for ethnic mix three student girl friends"
+  },
+  "countbench_0181": {
+    "prompt": "An image of 7 british national in a natural scene.",
+    "count": 7,
+    "category": "british national",
+    "original_prompt": "Front pages of seven British national daily newspapers in London, November 22, 1963, blare the news of U.S. President John Kennedy&#39;s assassination.  Each front page carried an Associated Press cable photo of the scene in the President&#39;s car as his wife Jacqueline bent over him just after he was struck by bullets in the neck and head.  &#40;AP Photo&#41; <span class=meta>(AP Photo&#47; XSS)</span>"
+  },
+  "countbench_0182": {
+    "prompt": "An image of 2 babies bunny in a natural scene.",
+    "count": 2,
+    "category": "babies bunny",
+    "original_prompt": "bluezoo - Pack of two babies pink bunny and cream spotted leggings"
+  },
+  "countbench_0183": {
+    "prompt": "An image of 3 silver jewels in a natural scene.",
+    "count": 3,
+    "category": "silver jewels",
+    "original_prompt": "290 - Masonic, three silver-gilt jewels, star in garter, eagle on setsquare, N over triangle, with Masonic..."
+  },
+  "countbench_0184": {
+    "prompt": "An image of 10 objects in a natural scene.",
+    "count": 10,
+    "category": "objects",
+    "original_prompt": "This is an Instant Download PDF Cross Stitch Pattern.  The complete Cacti and Succulents set in (optional)* geometric terrariums**  Patterns: ten"
+  },
+  "countbench_0185": {
+    "prompt": "An image of 6 women who in a natural scene.",
+    "count": 6,
+    "category": "women who",
+    "original_prompt": "six women who work in digital roles at DfT"
+  },
+  "countbench_0186": {
+    "prompt": "An image of 3 doors in a natural scene.",
+    "count": 3,
+    "category": "doors",
+    "original_prompt": "Choice of three doors opening to possible vacation or getaway destinations Imagens"
+  },
+  "countbench_0187": {
+    "prompt": "An image of 5 multi monkey in a natural scene.",
+    "count": 5,
+    "category": "multi monkey",
+    "original_prompt": "bluezoo - Boy's pack of five multi monkey socks"
+  },
+  "countbench_0188": {
+    "prompt": "An image of 7 artists known in a natural scene.",
+    "count": 7,
+    "category": "artists known",
+    "original_prompt": "A group of seven artists known as the Pecan Creek Artists opened their studio and gallery in February at 913 Indiana Street.  Primarily oil painters, they also work in acrylic and mixed media."
+  },
+  "countbench_0189": {
+    "prompt": "An image of 3 abstract flow in a natural scene.",
+    "count": 3,
+    "category": "abstract flow",
+    "original_prompt": "Set of three abstract colorful flow backgrounds. Modern screen design for app."
+  },
+  "countbench_0190": {
+    "prompt": "An image of 7 cutest sweater in a natural scene.",
+    "count": 7,
+    "category": "cutest sweater",
+    "original_prompt": "We rounded up seven of the cutest free sweater patterns that you can knit for your dog!"
+  },
+  "countbench_0191": {
+    "prompt": "An image of 3 pack in a natural scene.",
+    "count": 3,
+    "category": "pack",
+    "original_prompt": "3-Blade red broadheads three pack from Archery Hit"
+  },
+  "countbench_0192": {
+    "prompt": "An image of 8 articulated figures in a natural scene.",
+    "count": 8,
+    "category": "articulated figures",
+    "original_prompt": "eight articulated figures - Mickey, Minnie, Chip, Dale, Donald, Daisy, Goofy, Pluto in intermational costumes"
+  },
+  "countbench_0193": {
+    "prompt": "An image of 6 led battery in a natural scene.",
+    "count": 6,
+    "category": "led battery",
+    "original_prompt": "Pack of six LED battery operated tea lights/candles"
+  },
+  "countbench_0194": {
+    "prompt": "An image of 5 petals pattern in a natural scene.",
+    "count": 5,
+    "category": "petals pattern",
+    "original_prompt": "Turquoise flowers of five petals pattern Stock Photo - 17116071"
+  },
+  "countbench_0195": {
+    "prompt": "An image of 5 finalists in a natural scene.",
+    "count": 5,
+    "category": "finalists",
+    "original_prompt": "Crayola chose five finalists from the public's suggestions for the name of the new blue. Courtesy of Crayola."
+  },
+  "countbench_0196": {
+    "prompt": "An image of 2 men unidentified in a natural scene.",
+    "count": 2,
+    "category": "men unidentified",
+    "original_prompt": "Portrait of two men, unidentified"
+  },
+  "countbench_0197": {
+    "prompt": "An image of 5 and fitted in a natural scene.",
+    "count": 5,
+    "category": "and fitted",
+    "original_prompt": "five blue, green, and grey fitted caps"
+  },
+  "countbench_0198": {
+    "prompt": "An image of 10 children in a natural scene.",
+    "count": 10,
+    "category": "children",
+    "original_prompt": "Portrait of ten children standing on a bench at an outdoors party by Miquel for Stocksy United"
+  },
+  "countbench_0199": {
+    "prompt": "An image of 3 sellwood finish in a natural scene.",
+    "count": 3,
+    "category": "sellwood finish",
+    "original_prompt": "The three Sellwood finish options for Sisi Photography wedding collections - Teal, white and black."
+  },
+  "countbench_0200": {
+    "prompt": "An image of 6 animals in a natural scene.",
+    "count": 6,
+    "category": "animals",
+    "original_prompt": "Illustration of six different animals with four legs on a white background"
+  },
+  "countbench_0201": {
+    "prompt": "An image of 5 avatars in a natural scene.",
+    "count": 5,
+    "category": "avatars",
+    "original_prompt": "Get ready to see five different avatars of Salman Khan for the very first time: Bharat"
+  },
+  "countbench_0202": {
+    "prompt": "An image of 6 cats in a natural scene.",
+    "count": 6,
+    "category": "cats",
+    "original_prompt": "six black cats"
+  },
+  "countbench_0203": {
+    "prompt": "An image of 2 wall sconce in a natural scene.",
+    "count": 2,
+    "category": "wall sconce",
+    "original_prompt": "JVI Designs Hudson two light wall sconce - Bronze - 14.75-in x 13.5-in"
+  },
+  "countbench_0204": {
+    "prompt": "An image of 5 basic pasta in a natural scene.",
+    "count": 5,
+    "category": "basic pasta",
+    "original_prompt": "How to Make Pasta Sauce: Rachael's five basic pasta sauces. *this is handy*"
+  },
+  "countbench_0205": {
+    "prompt": "An image of 8 face expressions in a natural scene.",
+    "count": 8,
+    "category": "face expressions",
+    "original_prompt": "Beautiful brunette young adult businesswoman on eight different face expressions avatar collection"
+  },
+  "countbench_0206": {
+    "prompt": "An image of 4 businesswomen in a natural scene.",
+    "count": 4,
+    "category": "businesswomen",
+    "original_prompt": "Image of four businesswomen interacting at meeting"
+  },
+  "countbench_0207": {
+    "prompt": "An image of 9 buttons in a natural scene.",
+    "count": 9,
+    "category": "buttons",
+    "original_prompt": "min: 45 second stopwatch icon sign. symbol on nine round colourful buttons. Vector illustration Illustration"
+  },
+  "countbench_0208": {
+    "prompt": "An image of 7 astronauts set in a natural scene.",
+    "count": 7,
+    "category": "astronauts set",
+    "original_prompt": "STS127 - The seven astronauts set to launch aboard space shuttle Endeavour arrived at NASA's Kennedy Space Center on Tuesday afternoon, July 7, touching down at 1:13 ..."
+  },
+  "countbench_0209": {
+    "prompt": "An image of 5 avengers in a natural scene.",
+    "count": 5,
+    "category": "avengers",
+    "original_prompt": "The five avengers of Flight 19 were lost to Bermuda Triangle in 1945"
+  },
+  "countbench_0210": {
+    "prompt": "An image of 2 cats in a natural scene.",
+    "count": 2,
+    "category": "cats",
+    "original_prompt": "cyoot kitteh of teh day discrimination no no cats signs two cats - 5391468544"
+  },
+  "countbench_0211": {
+    "prompt": "An image of 4 drones in a natural scene.",
+    "count": 4,
+    "category": "drones",
+    "original_prompt": "Set of four drones and quadrocopters with camera lens for aerial photography, colored design elements isolated on white background Ilustra\u00e7\u00e3o"
+  },
+  "countbench_0212": {
+    "prompt": "An image of 6 silhouettes spruces in a natural scene.",
+    "count": 6,
+    "category": "silhouettes spruces",
+    "original_prompt": "Vector drawing of six black silhouettes spruces against the background of snowflakes. - stock vector"
+  },
+  "countbench_0213": {
+    "prompt": "An image of 10 objects in a natural scene.",
+    "count": 10,
+    "category": "objects",
+    "original_prompt": "d10 set of ten - Blue"
+  },
+  "countbench_0214": {
+    "prompt": "An image of 8 kinds in a natural scene.",
+    "count": 8,
+    "category": "kinds",
+    "original_prompt": "All eight kinds of one piece figure skating world collector bulldog figure skating ONE PIECE FILM Z Vol.4 \u300a immediate delivery product \u300b"
+  },
+  "countbench_0215": {
+    "prompt": "An image of 4 objects in a natural scene.",
+    "count": 4,
+    "category": "objects",
+    "original_prompt": "Pineapple cocktail napkins, white, set of four"
+  },
+  "countbench_0216": {
+    "prompt": "An image of 3 dogs in a natural scene.",
+    "count": 3,
+    "category": "dogs",
+    "original_prompt": "three dogs in a wine barrel"
+  },
+  "countbench_0217": {
+    "prompt": "An image of 2 brothers in a natural scene.",
+    "count": 2,
+    "category": "brothers",
+    "original_prompt": "Portrait of two brothers in park - Stock Image"
+  },
+  "countbench_0218": {
+    "prompt": "An image of 4 buttons isolated in a natural scene.",
+    "count": 4,
+    "category": "buttons isolated",
+    "original_prompt": "favorites: Set of four colorful buttons isolated flat for heart icons with plus sign - add to favorites icon"
+  },
+  "countbench_0219": {
+    "prompt": "An image of 8 shiny apples in a natural scene.",
+    "count": 8,
+    "category": "shiny apples",
+    "original_prompt": "Top view of eight colorful bright shiny red apples with few yellow spots on brown sacking material"
+  },
+  "countbench_0220": {
+    "prompt": "An image of 7 pinned files in a natural scene.",
+    "count": 7,
+    "category": "pinned files",
+    "original_prompt": "cork board seven pinned files"
+  },
+  "countbench_0221": {
+    "prompt": "An image of 10 objects in a natural scene.",
+    "count": 10,
+    "category": "objects",
+    "original_prompt": "d10 set of ten - Yellow"
+  },
+  "countbench_0222": {
+    "prompt": "An image of 10 science in a natural scene.",
+    "count": 10,
+    "category": "science",
+    "original_prompt": "Ten science fiction paperbacks for ten bucks-small"
+  },
+  "countbench_0223": {
+    "prompt": "An image of 6 face expression in a natural scene.",
+    "count": 6,
+    "category": "face expression",
+    "original_prompt": "Attractive light brown haired young hipster woman on six different face expression set"
+  },
+  "countbench_0224": {
+    "prompt": "An image of 6 eye colors in a natural scene.",
+    "count": 6,
+    "category": "eye colors",
+    "original_prompt": "Kartell - Bubble Club Sofa - Couch the idea that you can't have high style and coziness outside. Designed by Philippe, this outdoor sofa is molded from durable, fade-resistant polyethylene in a shape straight from your family room. It's available in six eye-catching colors."
+  },
+  "countbench_0225": {
+    "prompt": "An image of 7 styles in a natural scene.",
+    "count": 7,
+    "category": "styles",
+    "original_prompt": "Clear silicone dice mold - seven styles - sharp edges"
+  },
+  "countbench_0226": {
+    "prompt": "An image of 4 girls in a natural scene.",
+    "count": 4,
+    "category": "girls",
+    "original_prompt": "four girls in different clothes Vector"
+  },
+  "countbench_0227": {
+    "prompt": "An image of 6 options in a natural scene.",
+    "count": 6,
+    "category": "options",
+    "original_prompt": "hair cut: Illustration of the six options for men s hairstyles from the front"
+  },
+  "countbench_0228": {
+    "prompt": "An image of 6 face expressions in a natural scene.",
+    "count": 6,
+    "category": "face expressions",
+    "original_prompt": "Attractive brown haired young hipster man with glasses on six different face expressions collection \u5411\u91cf\u5716\u50cf"
+  },
+  "countbench_0229": {
+    "prompt": "An image of 7 main moons in a natural scene.",
+    "count": 7,
+    "category": "main moons",
+    "original_prompt": "Saturn's seven main moons"
+  },
+  "countbench_0230": {
+    "prompt": "An image of 6 and oval in a natural scene.",
+    "count": 6,
+    "category": "and oval",
+    "original_prompt": "vintage light monochrome six round and oval label set  Illustration"
+  },
+  "countbench_0231": {
+    "prompt": "An image of 5 clean unbranded in a natural scene.",
+    "count": 5,
+    "category": "clean unbranded",
+    "original_prompt": "A row of five clean unbranded metal gas cylinders with bronze valves on an isolated white background photo"
+  },
+  "countbench_0232": {
+    "prompt": "An image of 9 poses in a natural scene.",
+    "count": 9,
+    "category": "poses",
+    "original_prompt": "Silhouette of groom and a bride in a nine different poses"
+  },
+  "countbench_0233": {
+    "prompt": "An image of 2 people in a natural scene.",
+    "count": 2,
+    "category": "people",
+    "original_prompt": "Image of two people talking a water cooler"
+  },
+  "countbench_0234": {
+    "prompt": "An image of 4 cartoon dog in a natural scene.",
+    "count": 4,
+    "category": "cartoon dog",
+    "original_prompt": "illustration of four cartoon cute dog collection. Vector"
+  },
+  "countbench_0235": {
+    "prompt": "An image of 10 finalists stand in a natural scene.",
+    "count": 10,
+    "category": "finalists stand",
+    "original_prompt": "The top ten finalists stand together during the Miss Universe pageant in Sao Paulo, Brazil, . From left to right are Miss Australia Scherri-lee Miss Costa Rica Johanna, Miss France Laury, Miss Ukraine Olesia, Miss Portugal Laura, Miss Panama Sheldry, Miss Philippines Shamcey, Miss Angola Leila, Miss China Luo and Miss Brazil Priscila"
+  },
+  "countbench_0236": {
+    "prompt": "An image of 4 lamfaces in a natural scene.",
+    "count": 4,
+    "category": "lamfaces",
+    "original_prompt": "Lamb in colorful popart style, four lamfaces in a square"
+  },
+  "countbench_0237": {
+    "prompt": "An image of 3 violins three in a natural scene.",
+    "count": 3,
+    "category": "violins three",
+    "original_prompt": "three violins stock photo, beautiful three violins isolated on a white background by Bonzami Emmanuelle"
+  },
+  "countbench_0238": {
+    "prompt": "An image of 4 antique in a natural scene.",
+    "count": 4,
+    "category": "antique",
+    "original_prompt": "An old building with ruined walls and four antique pink and purple armchairs Imagens"
+  },
+  "countbench_0239": {
+    "prompt": "An image of 10 pigeon silhouette in a natural scene.",
+    "count": 10,
+    "category": "pigeon silhouette",
+    "original_prompt": "ten pigeon silhouette collection on white"
+  },
+  "countbench_0240": {
+    "prompt": "An image of 6 eggs in a natural scene.",
+    "count": 6,
+    "category": "eggs",
+    "original_prompt": "Bigjigs Pack of six eggs -"
+  },
+  "countbench_0241": {
+    "prompt": "An image of 9 objects in a natural scene.",
+    "count": 9,
+    "category": "objects",
+    "original_prompt": "Foodblogbilanz Best nine 2018"
+  },
+  "countbench_0242": {
+    "prompt": "An image of 8 queen anne in a natural scene.",
+    "count": 8,
+    "category": "queen anne",
+    "original_prompt": "Set of eight queen anne style burl walnut antique dining for Dining room chairs queen anne"
+  },
+  "countbench_0243": {
+    "prompt": "An image of 5 carved dwarf in a natural scene.",
+    "count": 5,
+    "category": "carved dwarf",
+    "original_prompt": "Set of five natural carved dwarf musicians"
+  },
+  "countbench_0244": {
+    "prompt": "An image of 9 leftmost moai in a natural scene.",
+    "count": 9,
+    "category": "leftmost moai",
+    "original_prompt": "The view of the nine leftmost moai at Ahu on Easter Island"
+  },
+  "countbench_0245": {
+    "prompt": "An image of 9 objects in a natural scene.",
+    "count": 9,
+    "category": "objects",
+    "original_prompt": "Scorpio icon sign symbol on nine round colourful vector"
+  },
+  "countbench_0246": {
+    "prompt": "An image of 3 glasses in a natural scene.",
+    "count": 3,
+    "category": "glasses",
+    "original_prompt": "three glasses with white, rose and red wine"
+  },
+  "countbench_0247": {
+    "prompt": "An image of 2 pedestal sinks in a natural scene.",
+    "count": 2,
+    "category": "pedestal sinks",
+    "original_prompt": "A custom cabinet between two pedestal sinks means you can have the style of a pedestal along with the function of a vanity"
+  },
+  "countbench_0248": {
+    "prompt": "An image of 5 young women in a natural scene.",
+    "count": 5,
+    "category": "young women",
+    "original_prompt": "Dance instructor instructing five young women \u2014 Stock fotografie #12294648"
+  },
+  "countbench_0249": {
+    "prompt": "An image of 7 pubs in a natural scene.",
+    "count": 7,
+    "category": "pubs",
+    "original_prompt": "Photo of seven pubs in Paddington"
+  },
+  "countbench_0250": {
+    "prompt": "An image of 8 flyers design in a natural scene.",
+    "count": 8,
+    "category": "flyers design",
+    "original_prompt": "Mega collection of eight different flyers design based on Sale and Discount, Music Party and Business concept"
+  },
+  "countbench_0251": {
+    "prompt": "An image of 10 objects in a natural scene.",
+    "count": 10,
+    "category": "objects",
+    "original_prompt": "d10 set of ten"
+  },
+  "countbench_0252": {
+    "prompt": "An image of 4 single serve in a natural scene.",
+    "count": 4,
+    "category": "single serve",
+    "original_prompt": "Neapolitan meatball pizza cut into four single serve slices."
+  },
+  "countbench_0253": {
+    "prompt": "An image of 4 baseball stamps in a natural scene.",
+    "count": 4,
+    "category": "baseball stamps",
+    "original_prompt": "Set of four baseball stamps"
+  },
+  "countbench_0254": {
+    "prompt": "An image of 6 cartoon animal in a natural scene.",
+    "count": 6,
+    "category": "cartoon animal",
+    "original_prompt": "six cute cartoon animal head stickers Vector"
+  },
+  "countbench_0255": {
+    "prompt": "An image of 3 gifts in a natural scene.",
+    "count": 3,
+    "category": "gifts",
+    "original_prompt": "Black conveyer belt and three gifts as a symbol of manufacturing and mass production in christmas time. 3D illustration"
+  },
+  "countbench_0256": {
+    "prompt": "An image of 5 assorted in a natural scene.",
+    "count": 5,
+    "category": "assorted",
+    "original_prompt": "Ben de Lisi Home - Set of five assorted mixing bowls"
+  },
+  "countbench_0257": {
+    "prompt": "An image of 5 baby girl in a natural scene.",
+    "count": 5,
+    "category": "baby girl",
+    "original_prompt": "Other - Lot of five baby girl onesies size 6-9 months"
+  },
+  "countbench_0258": {
+    "prompt": "An image of 9 girls reflected in a natural scene.",
+    "count": 9,
+    "category": "girls reflected",
+    "original_prompt": "nine girls reflected in water"
+  },
+  "countbench_0259": {
+    "prompt": "An image of 6 promotional pamphlets in a natural scene.",
+    "count": 6,
+    "category": "promotional pamphlets",
+    "original_prompt": "Cinema posters collection with different movie and film genres and themes. Creative retro vector design concept with six promotional pamphlets and advertises for cinema show on colorful backgrounds."
+  },
+  "countbench_0260": {
+    "prompt": "An image of 10 color cards in a natural scene.",
+    "count": 10,
+    "category": "color cards",
+    "original_prompt": "Set of ten color cards with bottles vector image"
+  },
+  "countbench_0261": {
+    "prompt": "An image of 5 presidents who in a natural scene.",
+    "count": 5,
+    "category": "presidents who",
+    "original_prompt": "The portraits of five U.S. presidents who were life members, including Herbert, who was the first club president, are on display in Congressional Country Club's History Hall in Bethesda. (Congressional Country Club Photograph)"
+  },
+  "countbench_0262": {
+    "prompt": "An image of 10 christmas poinsettia in a natural scene.",
+    "count": 10,
+    "category": "christmas poinsettia",
+    "original_prompt": "All ten Christmas Poinsettia"
+  },
+  "countbench_0263": {
+    "prompt": "An image of 5 crispy browned in a natural scene.",
+    "count": 5,
+    "category": "crispy browned",
+    "original_prompt": "overhead photo of five crispy browned chicken on a black skillet being saut\u00e9ed in oil on stove"
+  },
+  "countbench_0264": {
+    "prompt": "An image of 8 multi glass in a natural scene.",
+    "count": 8,
+    "category": "multi glass",
+    "original_prompt": "Set of eight multi-layered glass windows, executed by the Tiffany Studios in New York in 1913 and depicting The 8 Beatitudes of Jesus ($356,950)."
+  },
+  "countbench_0265": {
+    "prompt": "An image of 3 young crazy in a natural scene.",
+    "count": 3,
+    "category": "young crazy",
+    "original_prompt": "Photo of three young crazy girlfriends lying on the couch"
+  },
+  "countbench_0266": {
+    "prompt": "An image of 8 woven baskets in a natural scene.",
+    "count": 8,
+    "category": "woven baskets",
+    "original_prompt": "Collection of eight small woven baskets"
+  },
+  "countbench_0267": {
+    "prompt": "An image of 7 color tulip in a natural scene.",
+    "count": 7,
+    "category": "color tulip",
+    "original_prompt": "Foto op Plexiglas Tulp Set of seven different color tulip flowers"
+  },
+  "countbench_0268": {
+    "prompt": "An image of 5 bottles in a natural scene.",
+    "count": 5,
+    "category": "bottles",
+    "original_prompt": "five bottles of wine, red and white, on a black board, near five white plates, containing different kinds of cheese, wine tasting experience, 50th birthday themes"
+  },
+  "countbench_0269": {
+    "prompt": "An image of 3 killer whale in a natural scene.",
+    "count": 3,
+    "category": "killer whale",
+    "original_prompt": "three killer whale stuffed animals wearing hoodies"
+  },
+  "countbench_0270": {
+    "prompt": "An image of 8 lilo stitch in a natural scene.",
+    "count": 8,
+    "category": "lilo stitch",
+    "original_prompt": "2nd generation eight Lilo & Stitch Accessories Doll Keychain"
+  },
+  "countbench_0271": {
+    "prompt": "An image of 9 successful in a natural scene.",
+    "count": 9,
+    "category": "successful",
+    "original_prompt": "Business collage composed of nine photos of successful and positive business women photo"
+  },
+  "countbench_0272": {
+    "prompt": "An image of 10 republican presidential in a natural scene.",
+    "count": 10,
+    "category": "republican presidential",
+    "original_prompt": "The top ten Republican presidential candidates in the 2016 race"
+  },
+  "countbench_0273": {
+    "prompt": "An image of 2 dads ewan in a natural scene.",
+    "count": 2,
+    "category": "dads ewan",
+    "original_prompt": "Nine-month-old Jasmine and her two dads Ewan, left, and Paul are an example of modern families that break the traditional mold. Jasmine was conceived using Chan's sperm while one of French's sisters donated eggs and the other was surrogate."
+  },
+  "countbench_0274": {
+    "prompt": "An image of 3 tulips in a natural scene.",
+    "count": 3,
+    "category": "tulips",
+    "original_prompt": "Have a nice day card with three colorful tulips"
+  },
+  "countbench_0275": {
+    "prompt": "An image of 9 antique picture in a natural scene.",
+    "count": 9,
+    "category": "antique picture",
+    "original_prompt": "nine antique picture frames isolated on white . High resolution"
+  },
+  "countbench_0276": {
+    "prompt": "An image of 2 samosas mango in a natural scene.",
+    "count": 2,
+    "category": "samosas mango",
+    "original_prompt": "A kati roll, two samosas, mango lassi, and sauce.  ~$12 and delicious!"
+  },
+  "countbench_0277": {
+    "prompt": "An image of 5 strawberries in a natural scene.",
+    "count": 5,
+    "category": "strawberries",
+    "original_prompt": "five strawberries on a white background close-up"
+  },
+  "countbench_0278": {
+    "prompt": "An image of 3 cocktails hand in a natural scene.",
+    "count": 3,
+    "category": "cocktails hand",
+    "original_prompt": "Set with three different cocktails. hand-drawn illustration - 2"
+  },
+  "countbench_0279": {
+    "prompt": "An image of 6 men was in a natural scene.",
+    "count": 6,
+    "category": "men was",
+    "original_prompt": "Facial expression and gesture that six of the men was wearing a short-sleeved shirt and tie, glasses \u5411\u91cf\u5716\u50cf"
+  },
+  "countbench_0280": {
+    "prompt": "An image of 2 wineglasses in a natural scene.",
+    "count": 2,
+    "category": "wineglasses",
+    "original_prompt": "Still life with bottle of red wine, two wineglasses and grape in"
+  },
+  "countbench_0281": {
+    "prompt": "An image of 2 objects in a natural scene.",
+    "count": 2,
+    "category": "objects",
+    "original_prompt": "Handmade Wine Glass - wine glass pottery handmade goblet set two unique"
+  },
+  "countbench_0282": {
+    "prompt": "An image of 4 flamingo print in a natural scene.",
+    "count": 4,
+    "category": "flamingo print",
+    "original_prompt": "Set of four pink flamingo print, doing yoga, asana, namaste"
+  },
+  "countbench_0283": {
+    "prompt": "An image of 3 australia poppy in a natural scene.",
+    "count": 3,
+    "category": "australia poppy",
+    "original_prompt": "Trio of Warmth (Kim) Tags: orange flower three australia poppy californianpoppy act blueribbonwinner snowyriver isawyoufirst auselite kimlou58"
+  },
+  "countbench_0284": {
+    "prompt": "An image of 2 zebras in a natural scene.",
+    "count": 2,
+    "category": "zebras",
+    "original_prompt": "two zebras in Cape Town"
+  },
+  "countbench_0285": {
+    "prompt": "An image of 7 colors in a natural scene.",
+    "count": 7,
+    "category": "colors",
+    "original_prompt": "Artist's paintbrushes holding all seven colors of the rainbow - red, orange, yellow, green, blue, indigo and violet - stock photo"
+  },
+  "countbench_0286": {
+    "prompt": "An image of 9 teams in a natural scene.",
+    "count": 9,
+    "category": "teams",
+    "original_prompt": "Euro2016 challenge!  Correctly name all nine teams and tag three friends to win a change to get a free print!  GO!  #euro2016 #challenge #win"
+  },
+  "countbench_0287": {
+    "prompt": "An image of 10 prehistoric animal in a natural scene.",
+    "count": 10,
+    "category": "prehistoric animal",
+    "original_prompt": "A set of ten beautiful prehistoric animal models."
+  },
+  "countbench_0288": {
+    "prompt": "An image of 8 objects in a natural scene.",
+    "count": 8,
+    "category": "objects",
+    "original_prompt": "RIEDEL Vinum Chablis/Chardonnay glasses set of eight"
+  },
+  "countbench_0289": {
+    "prompt": "An image of 8 isolated sunglasses in a natural scene.",
+    "count": 8,
+    "category": "isolated sunglasses",
+    "original_prompt": "Set of eight isolated sunglasses realistic images with sun goggles models of different shape and colour"
+  },
+  "countbench_0290": {
+    "prompt": "An image of 3 horizontal material in a natural scene.",
+    "count": 3,
+    "category": "horizontal material",
+    "original_prompt": "Set of three horizontal material design banners. Modern abstract vector illustration."
+  },
+  "countbench_0291": {
+    "prompt": "An image of 7 yankee players in a natural scene.",
+    "count": 7,
+    "category": "yankee players",
+    "original_prompt": "Memorabilia; Yoo-Hoo bottle caps with seven Yankee players"
+  },
+  "countbench_0292": {
+    "prompt": "An image of 4 prints in a natural scene.",
+    "count": 4,
+    "category": "prints",
+    "original_prompt": "Cloud photography - set of four prints - aqua blue sky -  white clouds - nursery room decor - nature wall art - 5x7 11x14"
+  },
+  "countbench_0293": {
+    "prompt": "An image of 2 women in a natural scene.",
+    "count": 2,
+    "category": "women",
+    "original_prompt": "two women in lifejackets sitting in"
+  },
+  "countbench_0294": {
+    "prompt": "An image of 3 speckled eggs in a natural scene.",
+    "count": 3,
+    "category": "speckled eggs",
+    "original_prompt": "Studio still life of bird's nest with three speckled eggs. \u2014 Stock Photo #9553777"
+  },
+  "countbench_0295": {
+    "prompt": "An image of 8 candidates who in a natural scene.",
+    "count": 8,
+    "category": "candidates who",
+    "original_prompt": "The eight candidates who won approval to stand in Iran's presidential elections to be held in June."
+  },
+  "countbench_0296": {
+    "prompt": "An image of 5 books in a natural scene.",
+    "count": 5,
+    "category": "books",
+    "original_prompt": "five books the power of five 5 books set anthony collection"
+  },
+  "countbench_0297": {
+    "prompt": "An image of 8 farm animals in a natural scene.",
+    "count": 8,
+    "category": "farm animals",
+    "original_prompt": "Farm Animals - Cute set of eight farm animals  Vector"
+  },
+  "countbench_0298": {
+    "prompt": "An image of 9 eyeshadow palette in a natural scene.",
+    "count": 9,
+    "category": "eyeshadow palette",
+    "original_prompt": "Eyeshadow X9 Mac Review mac cosmetics navy times nine eyeshadow palette look 2"
+  },
+  "countbench_0299": {
+    "prompt": "An image of 8 mushroom doll in a natural scene.",
+    "count": 8,
+    "category": "mushroom doll",
+    "original_prompt": "A person on behalf of eight Mushroom Doll Keychain"
+  },
+  "countbench_0300": {
+    "prompt": "An image of 6 pairs in a natural scene.",
+    "count": 6,
+    "category": "pairs",
+    "original_prompt": "six pairs of handmade earrings"
+  },
+  "countbench_0301": {
+    "prompt": "An image of 8 objects in a natural scene.",
+    "count": 8,
+    "category": "objects",
+    "original_prompt": "French vintage canister set of eight in blue"
+  },
+  "countbench_0302": {
+    "prompt": "An image of 10 colours in a natural scene.",
+    "count": 10,
+    "category": "colours",
+    "original_prompt": "Merino roving,  needle felting wool, pick and mix ten colours 25g (1oz) bags  merino wool roving, felting, needle felting, merino tops"
+  },
+  "countbench_0303": {
+    "prompt": "An image of 2 baking sheets in a natural scene.",
+    "count": 2,
+    "category": "baking sheets",
+    "original_prompt": "two baking sheets of broccoli and cauliflower florets: one raw, one baked"
+  },
+  "countbench_0304": {
+    "prompt": "An image of 6 diamonds isolated in a natural scene.",
+    "count": 6,
+    "category": "diamonds isolated",
+    "original_prompt": "Set of six diamonds isolated on white background, vector illustration Stock Vector - 18367027"
+  },
+  "countbench_0305": {
+    "prompt": "An image of 7 anarchists convicted in a natural scene.",
+    "count": 7,
+    "category": "anarchists convicted",
+    "original_prompt": "The seven anarchists convicted of conspiracy to commit murder. Albert, August, Oscar, Adolph, Michael, Samuel, Louis and George."
+  },
+  "countbench_0306": {
+    "prompt": "An image of 5 featured in a natural scene.",
+    "count": 5,
+    "category": "featured",
+    "original_prompt": "Top five featured images from the 2015 Palin Top 20."
+  },
+  "countbench_0307": {
+    "prompt": "An image of 8 balkan european in a natural scene.",
+    "count": 8,
+    "category": "balkan european",
+    "original_prompt": "croatia: eight Balkan European flags in a shape of a ball"
+  },
+  "countbench_0308": {
+    "prompt": "An image of 10 dining chairs in a natural scene.",
+    "count": 10,
+    "category": "dining chairs",
+    "original_prompt": "Set of ten vintage dining chairs in teak by Kai, 1960s"
+  },
+  "countbench_0309": {
+    "prompt": "An image of 6 framed pictures in a natural scene.",
+    "count": 6,
+    "category": "framed pictures",
+    "original_prompt": "Gallery wall idea with six framed pictures arranged on a wall depicting Nature, Animals, and Country Life"
+  },
+  "countbench_0310": {
+    "prompt": "An image of 10 eggs in a natural scene.",
+    "count": 10,
+    "category": "eggs",
+    "original_prompt": "3D illustration of ten eggs in a carton package"
+  },
+  "countbench_0311": {
+    "prompt": "An image of 2 croissant in a natural scene.",
+    "count": 2,
+    "category": "croissant",
+    "original_prompt": "Raspberry jam and two croissant - image #198825 gratis"
+  },
+  "countbench_0312": {
+    "prompt": "An image of 3 walking manikins in a natural scene.",
+    "count": 3,
+    "category": "walking manikins",
+    "original_prompt": "Digital Animation of three walking Manikins"
+  },
+  "countbench_0313": {
+    "prompt": "An image of 9 objects in a natural scene.",
+    "count": 9,
+    "category": "objects",
+    "original_prompt": "Doctor icon sign symbol on nine round colourful vector"
+  },
+  "countbench_0314": {
+    "prompt": "An image of 7 retro beer in a natural scene.",
+    "count": 7,
+    "category": "retro beer",
+    "original_prompt": "Set of seven vintage retro beer labels with sample text\u200b\u200bvectorkunst illustratie"
+  },
+  "countbench_0315": {
+    "prompt": "An image of 3 assistant washington in a natural scene.",
+    "count": 3,
+    "category": "assistant washington",
+    "original_prompt": "FILE - In a Nov. 8, 1974 file photo, three of the assistant Washington prosecutors in the Watergate cover-up trial, from left: Richard, Jill, and James arrive at U.S. District Court in Washington. James, who successfully prosecuted Jimmy and Watergate figures and later defended high-profile clients, including Exxon Corp. after the Exxon oil spill, died Thursday, Oct. 21 in Nashville. He was 81. (AP Photo/Charles, File)"
+  },
+  "countbench_0316": {
+    "prompt": "An image of 4 huanghuali official in a natural scene.",
+    "count": 4,
+    "category": "huanghuali official",
+    "original_prompt": "An important and very rare set of four\u00a0huanghuali\u00a0'Four-corners-exposed official's hat' armchairs,\u00a0sichutouguanmaoyi"
+  },
+  "countbench_0317": {
+    "prompt": "An image of 6 nerikomi in a natural scene.",
+    "count": 6,
+    "category": "nerikomi",
+    "original_prompt": "Ueda (1914-1980) Set of six <i>nerikomi</i> sake cups with brown, black, beige abstract patterning on elevated foot, ca. 1968 Glazed stoneware 2 3/8 x 2 1/2 inches Inv# 4353"
+  },
+  "countbench_0318": {
+    "prompt": "An image of 5 military helicopters in a natural scene.",
+    "count": 5,
+    "category": "military helicopters",
+    "original_prompt": "Team of five military helicopters on a mission"
+  },
+  "countbench_0319": {
+    "prompt": "An image of 9 multi in a natural scene.",
+    "count": 9,
+    "category": "multi",
+    "original_prompt": "Faucet glass water icon sign nine multi colored vector"
+  },
+  "countbench_0320": {
+    "prompt": "An image of 2 boys in a natural scene.",
+    "count": 2,
+    "category": "boys",
+    "original_prompt": "two boys doing school work at home"
+  },
+  "countbench_0321": {
+    "prompt": "An image of 3 stooges comedy in a natural scene.",
+    "count": 3,
+    "category": "stooges comedy",
+    "original_prompt": "three stooges comedy"
+  },
+  "countbench_0322": {
+    "prompt": "An image of 9 buttons in a natural scene.",
+    "count": 9,
+    "category": "buttons",
+    "original_prompt": "cursor arrow: Cursor, arrow plus, add icon sign. symbol on nine round colourful buttons Illustration"
+  },
+  "countbench_0323": {
+    "prompt": "An image of 4 gop race in a natural scene.",
+    "count": 4,
+    "category": "gop race",
+    "original_prompt": "Foreign policy of the final four in GOP race"
+  },
+  "countbench_0324": {
+    "prompt": "An image of 7 chewy peanut in a natural scene.",
+    "count": 7,
+    "category": "chewy peanut",
+    "original_prompt": "Overhead shot of seven Chewy Peanut Butter Cookies with Chocolate M&M's on a white plate."
+  },
+  "countbench_0325": {
+    "prompt": "An image of 7 hot paper in a natural scene.",
+    "count": 7,
+    "category": "hot paper",
+    "original_prompt": "series of seven hot pink paper pulp lump sculptures"
+  },
+  "countbench_0326": {
+    "prompt": "An image of 4 girls school in a natural scene.",
+    "count": 4,
+    "category": "girls school",
+    "original_prompt": "The cover of Dana's novel, People Like Us, shows four girls' school uniforms, with navy blazers, plaid skirts, and red ties. The tie on one of the uniforms is askew."
+  },
+  "countbench_0327": {
+    "prompt": "An image of 2 brass crowned in a natural scene.",
+    "count": 2,
+    "category": "brass crowned",
+    "original_prompt": "two brass crowned Buddhas"
+  },
+  "countbench_0328": {
+    "prompt": "An image of 6 eggs in a natural scene.",
+    "count": 6,
+    "category": "eggs",
+    "original_prompt": "How many eggs are there? There are six eggs."
+  },
+  "countbench_0329": {
+    "prompt": "An image of 4 flavours in a natural scene.",
+    "count": 4,
+    "category": "flavours",
+    "original_prompt": "Guilt-free: The truffles made from dark chocolate now come in four flavours"
+  },
+  "countbench_0330": {
+    "prompt": "An image of 7 beer bottles in a natural scene.",
+    "count": 7,
+    "category": "beer bottles",
+    "original_prompt": "An arrangement of seven brown beer bottles with reflection over a white background. photo"
+  },
+  "countbench_0331": {
+    "prompt": "An image of 2 story cottage in a natural scene.",
+    "count": 2,
+    "category": "story cottage",
+    "original_prompt": "2 story cottage two story tiny cottage dream home decor ideas pinterest"
+  },
+  "countbench_0332": {
+    "prompt": "An image of 2 gift cards in a natural scene.",
+    "count": 2,
+    "category": "gift cards",
+    "original_prompt": "Set of two elegant gift cards with red ribbons vector"
+  },
+  "countbench_0333": {
+    "prompt": "An image of 5 eggs in a natural scene.",
+    "count": 5,
+    "category": "eggs",
+    "original_prompt": "five eggs with smile faces"
+  },
+  "countbench_0334": {
+    "prompt": "An image of 10 most beers in a natural scene.",
+    "count": 10,
+    "category": "most beers",
+    "original_prompt": "These are America's top ten most popular beers"
+  },
+  "countbench_0335": {
+    "prompt": "An image of 10 children in a natural scene.",
+    "count": 10,
+    "category": "children",
+    "original_prompt": "Portrait of ten children standing on a bench at an outdoors part"
+  },
+  "countbench_0336": {
+    "prompt": "An image of 4 blades planes in a natural scene.",
+    "count": 4,
+    "category": "blades planes",
+    "original_prompt": "Formation flyers: The four Blades planes fly 26 consecutive loops to break a world record. Blind Mike did the first one before his co-pilot took over the controls"
+  },
+  "countbench_0337": {
+    "prompt": "An image of 4 cactuses in a natural scene.",
+    "count": 4,
+    "category": "cactuses",
+    "original_prompt": "four cactuses on brown background that look like penises and appear to be shrinking"
+  },
+  "countbench_0338": {
+    "prompt": "An image of 10 smartphone makers in a natural scene.",
+    "count": 10,
+    "category": "smartphone makers",
+    "original_prompt": "top ten smartphone makers in the world"
+  },
+  "countbench_0339": {
+    "prompt": "An image of 9 picture frames in a natural scene.",
+    "count": 9,
+    "category": "picture frames",
+    "original_prompt": "nine picture frames isolated on white . High resolution"
+  },
+  "countbench_0340": {
+    "prompt": "An image of 9 walking elephant in a natural scene.",
+    "count": 9,
+    "category": "walking elephant",
+    "original_prompt": "nine walking elephant  silhouettes ,vector collection   Illustration"
+  },
+  "countbench_0341": {
+    "prompt": "An image of 5 electric guitars in a natural scene.",
+    "count": 5,
+    "category": "electric guitars",
+    "original_prompt": "five electric guitars on a white background - stock vector"
+  },
+  "countbench_0342": {
+    "prompt": "An image of 2 japanese samurai in a natural scene.",
+    "count": 2,
+    "category": "japanese samurai",
+    "original_prompt": "k\u0131l\u0131\u00e7 : the duel of two Japanese samurai against the sky with clouds"
+  },
+  "countbench_0343": {
+    "prompt": "An image of 9 flying ghosts in a natural scene.",
+    "count": 9,
+    "category": "flying ghosts",
+    "original_prompt": "nightly: Set of nine blue flying ghosts with various characters isolated on a white background, cartoon Halloween vector illustration"
+  },
+  "countbench_0344": {
+    "prompt": "An image of 7 bottles in a natural scene.",
+    "count": 7,
+    "category": "bottles",
+    "original_prompt": "set of seven bottles of water isolated on white background with a different set of covers - stock photo"
+  },
+  "countbench_0345": {
+    "prompt": "An image of 9 platforms in a natural scene.",
+    "count": 9,
+    "category": "platforms",
+    "original_prompt": "The Southern Enterprises 21-1/2 in. 9-Candle Candelabra Free Standing comes with metal construction and black matte finish. This features nine platforms to hold candles and a sturdy base. It adds warmth and gentle glow to any room of your home."
+  },
+  "countbench_0346": {
+    "prompt": "An image of 3 galvanized flower in a natural scene.",
+    "count": 3,
+    "category": "galvanized flower",
+    "original_prompt": "\"IMAX - Chandler Metal Flower Vases - Set of 3 - This set of three galvanized flower vases feature a cage like design that gives a shabby chic look to any room. Item Dimensions: (12.25-14.5-16.5\"\"h x 10.25-11.5-12.5\"\"w x 10.25-11.5-12.5\"\")\""
+  },
+  "countbench_0347": {
+    "prompt": "An image of 10 noise in a natural scene.",
+    "count": 10,
+    "category": "noise",
+    "original_prompt": "We review the ten best noise cancelling headphones, earbuds and over-ear"
+  },
+  "countbench_0348": {
+    "prompt": "An image of 3 pandas in a natural scene.",
+    "count": 3,
+    "category": "pandas",
+    "original_prompt": "Cartoon frame - bamboo & three little pandas illustration"
+  },
+  "countbench_0349": {
+    "prompt": "An image of 2 opened books in a natural scene.",
+    "count": 2,
+    "category": "opened books",
+    "original_prompt": "Vector format of two opened books"
+  },
+  "countbench_0350": {
+    "prompt": "An image of 7 color dinosaur in a natural scene.",
+    "count": 7,
+    "category": "color dinosaur",
+    "original_prompt": "ascendant: seven cute color dinosaur stickers  Illustration"
+  },
+  "countbench_0351": {
+    "prompt": "An image of 3 sterling in a natural scene.",
+    "count": 3,
+    "category": "sterling",
+    "original_prompt": "MARTYRE: Sinner set of three sterling-silver and brilliant-cut diamond rings"
+  },
+  "countbench_0352": {
+    "prompt": "An image of 7 polyhedral dice in a natural scene.",
+    "count": 7,
+    "category": "polyhedral dice",
+    "original_prompt": "set of seven green polyhedral dice for role playing games"
+  },
+  "countbench_0353": {
+    "prompt": "An image of 7 dragon ball in a natural scene.",
+    "count": 7,
+    "category": "dragon ball",
+    "original_prompt": "high quality custom resin seven 7 dragon ball z balls for sale"
+  },
+  "countbench_0354": {
+    "prompt": "An image of 3 assembled in a natural scene.",
+    "count": 3,
+    "category": "assembled",
+    "original_prompt": "5 all three M11 39 assembled and filed"
+  },
+  "countbench_0355": {
+    "prompt": "An image of 2 students in a natural scene.",
+    "count": 2,
+    "category": "students",
+    "original_prompt": "A teacher helping two students"
+  },
+  "countbench_0356": {
+    "prompt": "An image of 7 sensational designs in a natural scene.",
+    "count": 7,
+    "category": "sensational designs",
+    "original_prompt": "Meri Meri - Magic Cups, featuring seven sensational designs including stars, stripes, hearts and spades, with lots of holographic gold foil detail and a border add shine and style. These cups are made from eco-friendly paper, Pack of 8 in 7 designs. They are perfect for a magic themed party which you want to fill with wonder and fun."
+  },
+  "countbench_0357": {
+    "prompt": "An image of 3 young bears in a natural scene.",
+    "count": 3,
+    "category": "young bears",
+    "original_prompt": "Mother Orsa (L) and her three young bears discover the open-air enclosure at the wildlife park Tripsdrill, near Cleebronn, Germany, April 10."
+  },
+  "countbench_0358": {
+    "prompt": "An image of 10 disabled people in a natural scene.",
+    "count": 10,
+    "category": "disabled people",
+    "original_prompt": "set of ten disabled people"
+  },
+  "countbench_0359": {
+    "prompt": "An image of 7 cushion covers in a natural scene.",
+    "count": 7,
+    "category": "cushion covers",
+    "original_prompt": "A mix of seven cushion covers in orange, grey, lilac colours"
+  },
+  "countbench_0360": {
+    "prompt": "An image of 10 comfortable stylish in a natural scene.",
+    "count": 10,
+    "category": "comfortable stylish",
+    "original_prompt": "top ten comfortable stylish shoes for mature feet suzanne"
+  },
+  "countbench_0361": {
+    "prompt": "An image of 4 beers lined in a natural scene.",
+    "count": 4,
+    "category": "beers lined",
+    "original_prompt": "four beers lined up on wooden table"
+  },
+  "countbench_0362": {
+    "prompt": "An image of 4 main types in a natural scene.",
+    "count": 4,
+    "category": "main types",
+    "original_prompt": "Poster wine types with four main types of wine lettering white wine, red wine, pink wine, dessert wine drawing with chalk in vintage style on chalkboard. \u77e2\u91cf\u56fe\u50cf"
+  },
+  "countbench_0363": {
+    "prompt": "An image of 4 ace cards in a natural scene.",
+    "count": 4,
+    "category": "ace cards",
+    "original_prompt": "Feeling lucky concept. stock photo, Illustrated four ace cards standing in formation on their corners and reflecting into foreground. Black and red background. by Samantha"
+  },
+  "countbench_0364": {
+    "prompt": "An image of 10 fall boots in a natural scene.",
+    "count": 10,
+    "category": "fall boots",
+    "original_prompt": "Top ten best fall boots"
+  },
+  "countbench_0365": {
+    "prompt": "An image of 9 stickers in a natural scene.",
+    "count": 9,
+    "category": "stickers",
+    "original_prompt": "Set of nine different colorful stickers at white background speech bubbles with lol"
+  },
+  "countbench_0366": {
+    "prompt": "An image of 7 pieces in a natural scene.",
+    "count": 7,
+    "category": "pieces",
+    "original_prompt": "Metal Dice Australia - Table travel color metal multi-sided dice seven pieces of a set of casual entertainment game dice set manufacturers custom"
+  },
+  "countbench_0367": {
+    "prompt": "An image of 10 multicolored butterflies in a natural scene.",
+    "count": 10,
+    "category": "multicolored butterflies",
+    "original_prompt": "ten multicolored butterflies on a white background"
+  },
+  "countbench_0368": {
+    "prompt": "An image of 8 mothers in a natural scene.",
+    "count": 8,
+    "category": "mothers",
+    "original_prompt": "JoAnn photographed eight mothers to celebrate their rainbow babies.\u00a0 (JoAnn/From Labor to Love)"
+  },
+  "countbench_0369": {
+    "prompt": "An image of 10 ornamental butterflies in a natural scene.",
+    "count": 10,
+    "category": "ornamental butterflies",
+    "original_prompt": "Set of ten ornamental butterflies"
+  },
+  "countbench_0370": {
+    "prompt": "An image of 7 women are in a natural scene.",
+    "count": 7,
+    "category": "women are",
+    "original_prompt": "A black and white publicity shot of Hi, posing in a tropical setting. The seven women are sitting close together on a sofa, some with arms around each other, laughing and grinning, under bright lights, with a huge beach umbrella, straw hats, palm tree branches, saxophones and a trombone."
+  },
+  "countbench_0371": {
+    "prompt": "An image of 8 dining chairs in a natural scene.",
+    "count": 8,
+    "category": "dining chairs",
+    "original_prompt": "set of eight dining chairs upholstered in blue and white"
+  },
+  "countbench_0372": {
+    "prompt": "An image of 7 hexagons in a natural scene.",
+    "count": 7,
+    "category": "hexagons",
+    "original_prompt": "Infographics seven hexagons vector"
+  },
+  "countbench_0373": {
+    "prompt": "An image of 8 chairs in a natural scene.",
+    "count": 8,
+    "category": "chairs",
+    "original_prompt": "eight vintage 'Delphi' chairs with cantilever seats and chrome steel tube frames by Ernst for Stendig"
+  },
+  "countbench_0374": {
+    "prompt": "An image of 8 liverpool strikers in a natural scene.",
+    "count": 8,
+    "category": "liverpool strikers",
+    "original_prompt": "Keep or sell \u2013 Rating the prospects of the eight Liverpool strikers, with Benteke set to join"
+  },
+  "countbench_0375": {
+    "prompt": "An image of 6 gift boxes in a natural scene.",
+    "count": 6,
+    "category": "gift boxes",
+    "original_prompt": "Set of six gift boxes. Vector. Stock Vector - 3976107"
+  },
+  "countbench_0376": {
+    "prompt": "An image of 8 electric lamps in a natural scene.",
+    "count": 8,
+    "category": "electric lamps",
+    "original_prompt": "eight different electric lamps isolated on white"
+  },
+  "countbench_0377": {
+    "prompt": "An image of 10 school resource in a natural scene.",
+    "count": 10,
+    "category": "school resource",
+    "original_prompt": "Ten School Resource Officers will be serving in seven local school districts this year as part of Broome County District Attorney Steve's SRO Program."
+  },
+  "countbench_0378": {
+    "prompt": "An image of 8 side chairs in a natural scene.",
+    "count": 8,
+    "category": "side chairs",
+    "original_prompt": "GIANNI VIGORELLI Set of eight side chairs, 1950s  Pearwood, vinyl (8). 37 1/2 x 16 1/2 x 17 3/8 in (95.3 x 42 x 44 cm)"
+  },
+  "countbench_0379": {
+    "prompt": "An image of 5 players in a natural scene.",
+    "count": 5,
+    "category": "players",
+    "original_prompt": "Pictured are five of the players from Thursday's CCAA Division 1 golf qualifier who earned a berth in the Section VI\u2008state qualifier on Monday. From the left are JT, Derek, TJ, Zac and alternate Christian. Absent are Anthony and Seth. Submitted photo"
+  },
+  "countbench_0380": {
+    "prompt": "An image of 5 final bachelor in a natural scene.",
+    "count": 5,
+    "category": "final bachelor",
+    "original_prompt": "The five final Bachelor Canada contestants, announced Wednesday, Sept. 26, 2012."
+  },
+  "countbench_0381": {
+    "prompt": "An image of 5 members in a natural scene.",
+    "count": 5,
+    "category": "members",
+    "original_prompt": "Pictured here are the five members of the Karnes City track and field team who qualified for state."
+  },
+  "countbench_0382": {
+    "prompt": "An image of 7 candle sticks in a natural scene.",
+    "count": 7,
+    "category": "candle sticks",
+    "original_prompt": "Kwanzaa holiday background with candle light of seven candle sticks in black, green, red symbolising 7 principles of African Heritage (Nguzo Saba) for African-American cultural celebration"
+  },
+  "countbench_0383": {
+    "prompt": "An image of 3 office workers in a natural scene.",
+    "count": 3,
+    "category": "office workers",
+    "original_prompt": "startup project poster with three office workers vector image"
+  },
+  "countbench_0384": {
+    "prompt": "An image of 4 men in a natural scene.",
+    "count": 4,
+    "category": "men",
+    "original_prompt": "colorful silhouettes of four men playing beach volleyball Vector"
+  },
+  "countbench_0385": {
+    "prompt": "An image of 4 pinch pots in a natural scene.",
+    "count": 4,
+    "category": "pinch pots",
+    "original_prompt": "Colourful Pinch Pots - This colourful set of four pinch pots is a great way to organise and store pickles and spices on the dining table. They are made of porcelain and make for great gifts as well."
+  },
+  "countbench_0386": {
+    "prompt": "An image of 9 differently shaped in a natural scene.",
+    "count": 9,
+    "category": "differently shaped",
+    "original_prompt": "Halloween collection of nine differently shaped pumpkins"
+  },
+  "countbench_0387": {
+    "prompt": "An image of 9 ornamental owls in a natural scene.",
+    "count": 9,
+    "category": "ornamental owls",
+    "original_prompt": "Set of nine ornamental owls"
+  },
+  "countbench_0388": {
+    "prompt": "An image of 6 objects in a natural scene.",
+    "count": 6,
+    "category": "objects",
+    "original_prompt": "Doctor  Gesture and pose of the six Illustration"
+  },
+  "countbench_0389": {
+    "prompt": "An image of 3 pigs in a natural scene.",
+    "count": 3,
+    "category": "pigs",
+    "original_prompt": "three little pigs"
+  },
+  "countbench_0390": {
+    "prompt": "An image of 9 pillars in a natural scene.",
+    "count": 9,
+    "category": "pillars",
+    "original_prompt": "The nine pillars of Industry 4.0 3D illustration"
+  },
+  "countbench_0391": {
+    "prompt": "An image of 9 objects in a natural scene.",
+    "count": 9,
+    "category": "objects",
+    "original_prompt": "Like icon sign symbol on nine round colourful vector"
+  },
+  "countbench_0392": {
+    "prompt": "An image of 9 pumpkins isolated in a natural scene.",
+    "count": 9,
+    "category": "pumpkins isolated",
+    "original_prompt": "Set of nine pumpkins isolated on a white background. Vector illustration. \u2014 Stock Vector"
+  },
+  "countbench_0393": {
+    "prompt": "An image of 10 ufc heavyweight in a natural scene.",
+    "count": 10,
+    "category": "ufc heavyweight",
+    "original_prompt": "LAS VEGAS, NV - MAY 24:   All ten of the UFC heavyweight fighters from the main card of UFC 146 pose for photos during press conference at MGM Grand on May 24, 2012 in Las Vegas, Nevada.  (Photo by Josh/Zuffa LLC/Zuffa LLC via Getty Images)"
+  },
+  "countbench_0394": {
+    "prompt": "An image of 10 and chicken in a natural scene.",
+    "count": 10,
+    "category": "and chicken",
+    "original_prompt": "ten white and brown chicken eggs in a carton box"
+  },
+  "countbench_0395": {
+    "prompt": "An image of 8 roses in a natural scene.",
+    "count": 8,
+    "category": "roses",
+    "original_prompt": "collage of eight red roses Stock Photo"
+  },
+  "countbench_0396": {
+    "prompt": "An image of 8 barcelona players in a natural scene.",
+    "count": 8,
+    "category": "barcelona players",
+    "original_prompt": "The first La Liga title for eight FC Barcelona players"
+  },
+  "countbench_0397": {
+    "prompt": "An image of 3 plastic bottles in a natural scene.",
+    "count": 3,
+    "category": "plastic bottles",
+    "original_prompt": "3D render illustration of the group of three plastic bottles with clear purified drink carbonated water isolated on white background with reflection effect"
+  },
+  "countbench_0398": {
+    "prompt": "An image of 3 headers in a natural scene.",
+    "count": 3,
+    "category": "headers",
+    "original_prompt": "Spoed canvasdoek 2cm dik Bloemen vrouw Beautiful women faces on three headers"
+  },
+  "countbench_0399": {
+    "prompt": "An image of 5 and in a natural scene.",
+    "count": 5,
+    "category": "and",
+    "original_prompt": "five black and white photos on a dark grey wall, photos by Gordon of poverty in Rio de Janeiro in the 1960s"
+  },
+  "countbench_0400": {
+    "prompt": "An image of 8 rainbow butterfly in a natural scene.",
+    "count": 8,
+    "category": "rainbow butterfly",
+    "original_prompt": "This beautiful set of eight rainbow butterfly wall stickers will instantly add a dash of bright colour to any room. They would make a lovely Mothers Day gift. They are easy to apply - simply peel and stick. They can be used to decorate walls or furniture and can be easily removed (simply peel off again).  The wall sticker set features eight butterflies in rainbow colours: red, orange, yellow, green, indigo, violet and pink. Made from luxurious matte wall sticker material with a slight fabric\u2026"
+  },
+  "countbench_0401": {
+    "prompt": "An image of 6 enamelled gilt in a natural scene.",
+    "count": 6,
+    "category": "enamelled gilt",
+    "original_prompt": "A set of six enamelled, gilt silver espresso spoons, tillander, helsinki 1955-56."
+  },
+  "countbench_0402": {
+    "prompt": "An image of 3 potato spread in a natural scene.",
+    "count": 3,
+    "category": "potato spread",
+    "original_prompt": "pinnable image for three potato spread recipes."
+  },
+  "countbench_0403": {
+    "prompt": "An image of 8 contestans in a natural scene.",
+    "count": 8,
+    "category": "contestans",
+    "original_prompt": "PMG PHOTO: JAIME - The final eight contestans in the 2019 Regional Spelling Bee, sponsored by Pamplin Media Group, await the next round of words on Saturday, March 9 inside the Hollywood Theatre."
+  },
+  "countbench_0404": {
+    "prompt": "An image of 4 women in a natural scene.",
+    "count": 4,
+    "category": "women",
+    "original_prompt": "Is one of these four women the new judge on My Kitchen Rules?"
+  },
+  "countbench_0405": {
+    "prompt": "An image of 2 asmat tribal in a natural scene.",
+    "count": 2,
+    "category": "asmat tribal",
+    "original_prompt": "A portrait of two Asmat tribal elders. I met them outside the Men&rsquo;s House in Syuru village."
+  },
+  "countbench_0406": {
+    "prompt": "An image of 6 dransfield wall in a natural scene.",
+    "count": 6,
+    "category": "dransfield wall",
+    "original_prompt": "tozai home decor tozai home set of six dransfield wall art neutral scenes"
+  },
+  "countbench_0407": {
+    "prompt": "An image of 10 reissues in a natural scene.",
+    "count": 10,
+    "category": "reissues",
+    "original_prompt": "Top ten reissues"
+  },
+  "countbench_0408": {
+    "prompt": "An image of 5 female students in a natural scene.",
+    "count": 5,
+    "category": "female students",
+    "original_prompt": "Photograph of five female students sitting by the fireplace in the American Room of Welch Hall at Iowa State University."
+  },
+  "countbench_0409": {
+    "prompt": "An image of 2 special forces in a natural scene.",
+    "count": 2,
+    "category": "special forces",
+    "original_prompt": "Half length low angle studio shot of pair two special forces soldiers in field uniforms with weapons attacking shouting, portrait on black background"
+  },
+  "countbench_0410": {
+    "prompt": "An image of 10 values imperforate in a natural scene.",
+    "count": 10,
+    "category": "values imperforate",
+    "original_prompt": "920 - 1940 Greek National Youth Organisation Postage, the complete Proof set of ten values, imperforate om..."
+  },
+  "countbench_0411": {
+    "prompt": "An image of 8 dancing maple in a natural scene.",
+    "count": 8,
+    "category": "dancing maple",
+    "original_prompt": "eight dancing maple dining chairs"
+  },
+  "countbench_0412": {
+    "prompt": "An image of 4 seamless camouflage in a natural scene.",
+    "count": 4,
+    "category": "seamless camouflage",
+    "original_prompt": "Set of four seamless camouflage fabric patterns. Vector illustration."
+  },
+  "countbench_0413": {
+    "prompt": "An image of 2 dogs in a natural scene.",
+    "count": 2,
+    "category": "dogs",
+    "original_prompt": "Dog Leash Coupler - Walk two dogs with a single leash"
+  },
+  "countbench_0414": {
+    "prompt": "An image of 2 pennies in a natural scene.",
+    "count": 2,
+    "category": "pennies",
+    "original_prompt": "Vector illustration of two pennies in a speech bubble against a blue background in flat style."
+  },
+  "countbench_0415": {
+    "prompt": "An image of 8 windows in a natural scene.",
+    "count": 8,
+    "category": "windows",
+    "original_prompt": "Fotograf\u00eda  Closeup photo of bright yellow building with eight windows"
+  },
+  "countbench_0416": {
+    "prompt": "An image of 8 tasty eggs in a natural scene.",
+    "count": 8,
+    "category": "tasty eggs",
+    "original_prompt": "eight tasty eggs in plastic box photo"
+  },
+  "countbench_0417": {
+    "prompt": "An image of 5 canadian geese in a natural scene.",
+    "count": 5,
+    "category": "canadian geese",
+    "original_prompt": "five canadian geese flying over the ocean"
+  },
+  "countbench_0418": {
+    "prompt": "An image of 3 tickets in a natural scene.",
+    "count": 3,
+    "category": "tickets",
+    "original_prompt": "Got three tickets at 10,000 won each using my KEB cards."
+  },
+  "countbench_0419": {
+    "prompt": "An image of 8 kinds in a natural scene.",
+    "count": 8,
+    "category": "kinds",
+    "original_prompt": "All eight kinds of GUNDAM series world collector bulldog figure skating vol.3 sets"
+  },
+  "countbench_0420": {
+    "prompt": "An image of 4 assorted iphone in a natural scene.",
+    "count": 4,
+    "category": "assorted iphone",
+    "original_prompt": "four assorted-color iPhone X cases"
+  },
+  "countbench_0421": {
+    "prompt": "An image of 7 specialist in a natural scene.",
+    "count": 7,
+    "category": "specialist",
+    "original_prompt": "Lloyds Bank Commercial Banking has appointed seven new specialist banking professionals dedicated to the property SME sector. Pictured are Harjit, Andy , Dave, Mike, Demetrius, Damian and Dave"
+  },
+  "countbench_0422": {
+    "prompt": "An image of 2 objects in a natural scene.",
+    "count": 2,
+    "category": "objects",
+    "original_prompt": "JoyJolt Black Swan Red Wine Glasses Set of two 26.8 Oz"
+  },
+  "countbench_0423": {
+    "prompt": "An image of 8 secretaries in a natural scene.",
+    "count": 8,
+    "category": "secretaries",
+    "original_prompt": "The eight secretaries-general to date. Images courtesy of Britannica.com, Dag \u00f6ld Foundation, UN archives (U Thant and Waldheim), UNESCO, UN.org, the Telegraph, and Tiznit24.com."
+  },
+  "countbench_0424": {
+    "prompt": "An image of 2 coffee cups in a natural scene.",
+    "count": 2,
+    "category": "coffee cups",
+    "original_prompt": "two coffee cups with braided handles"
+  },
+  "countbench_0425": {
+    "prompt": "An image of 10 dice in a natural scene.",
+    "count": 10,
+    "category": "dice",
+    "original_prompt": "d10 set of ten red dice"
+  },
+  "countbench_0426": {
+    "prompt": "An image of 2 kittens in a natural scene.",
+    "count": 2,
+    "category": "kittens",
+    "original_prompt": "two kittens sitting"
+  },
+  "countbench_0427": {
+    "prompt": "An image of 5 male plumbers in a natural scene.",
+    "count": 5,
+    "category": "male plumbers",
+    "original_prompt": "Group shot of five male plumbers in arrow formation, background two grey vans either side of the men, in front of Bargates, Southampton."
+  },
+  "countbench_0428": {
+    "prompt": "An image of 8 cinnamon scones in a natural scene.",
+    "count": 8,
+    "category": "cinnamon scones",
+    "original_prompt": "Overhead view of eight Cinnamon Scones (with Cinnamon Chips) before baking, spread out onto a baking sheet"
+  },
+  "countbench_0429": {
+    "prompt": "An image of 8 schoolgirls in a natural scene.",
+    "count": 8,
+    "category": "schoolgirls",
+    "original_prompt": "Illustration of the eight schoolgirls in their uniforms on a white background Vector"
+  },
+  "countbench_0430": {
+    "prompt": "An image of 9 padlocks in a natural scene.",
+    "count": 9,
+    "category": "padlocks",
+    "original_prompt": "Set of nine padlocks vector"
+  },
+  "countbench_0431": {
+    "prompt": "An image of 7 contestants in a natural scene.",
+    "count": 7,
+    "category": "contestants",
+    "original_prompt": "The seven contestants for the 2020 Miss Pine River Scholarship Pageant. Top Row: Jordan, Madison, Jessie, Brianna. Bottom Row: Rylee, Aurora, Ceyara."
+  },
+  "countbench_0432": {
+    "prompt": "An image of 7 scientists asked in a natural scene.",
+    "count": 7,
+    "category": "scientists asked",
+    "original_prompt": "Tennessee v. John T. Trial: The seven scientists asked to testify for the defense standing in front of the Defense Mansion. | by Smithsonian Institution"
+  },
+  "countbench_0433": {
+    "prompt": "An image of 2 vertical windows in a natural scene.",
+    "count": 2,
+    "category": "vertical windows",
+    "original_prompt": "Modern living room with fireplace and two vertical windows - rendering - stock photo"
+  },
+  "countbench_0434": {
+    "prompt": "An image of 9 objects in a natural scene.",
+    "count": 9,
+    "category": "objects",
+    "original_prompt": "Audio mp3 file icon sign symbol on nine round vector"
+  },
+  "countbench_0435": {
+    "prompt": "An image of 4 vertical halloween in a natural scene.",
+    "count": 4,
+    "category": "vertical halloween",
+    "original_prompt": "halloween banners - set of four vertical halloween banners..."
+  },
+  "countbench_0436": {
+    "prompt": "An image of 9 breeds in a natural scene.",
+    "count": 9,
+    "category": "breeds",
+    "original_prompt": "photos of nine different breeds of dogs"
+  },
+  "countbench_0437": {
+    "prompt": "An image of 7 groomsmen wore in a natural scene.",
+    "count": 7,
+    "category": "groomsmen wore",
+    "original_prompt": "All of Peter's seven groomsmen wore gray Vera Wang tuxedos with slim black ties, forgoing boutonnieres for white pocket squares."
+  },
+  "countbench_0438": {
+    "prompt": "An image of 2 children in a natural scene.",
+    "count": 2,
+    "category": "children",
+    "original_prompt": "two children in sunglasses with Thomas the Train suitcases - how to vacation in palm springs with kids"
+  },
+  "countbench_0439": {
+    "prompt": "An image of 3 bloody mary in a natural scene.",
+    "count": 3,
+    "category": "bloody mary",
+    "original_prompt": "Image of Charleston Mix bottle with three bloody mary drinks"
+  },
+  "countbench_0440": {
+    "prompt": "An image of 8 buttons in a natural scene.",
+    "count": 8,
+    "category": "buttons",
+    "original_prompt": "apartment bell: Hotel icon sign. Symbol on eight colored buttons. Vector illustration Illustration"
+  },
+  "countbench_0441": {
+    "prompt": "An image of 10 saint double in a natural scene.",
+    "count": 10,
+    "category": "saint double",
+    "original_prompt": "The ten 1933 Saint-Gaudens Double Eagles confiscated by the government from Joan, daughter of Israel."
+  },
+  "countbench_0442": {
+    "prompt": "An image of 6 fully grown in a natural scene.",
+    "count": 6,
+    "category": "fully grown",
+    "original_prompt": "Trees - Collection of six fully grown shade trees."
+  },
+  "countbench_0443": {
+    "prompt": "An image of 2 sea turtles in a natural scene.",
+    "count": 2,
+    "category": "sea turtles",
+    "original_prompt": "It appears that these two green sea turtles, Chelonia mydas, an endangered species, are having a disagreement Hawaii."
+  },
+  "countbench_0444": {
+    "prompt": "An image of 8 employees in a natural scene.",
+    "count": 8,
+    "category": "employees",
+    "original_prompt": "A total of eight employees in the northeast district were among the MoDOT employees heading to Florida."
+  },
+  "countbench_0445": {
+    "prompt": "An image of 9 picture frames in a natural scene.",
+    "count": 9,
+    "category": "picture frames",
+    "original_prompt": "nine picture frames isolated on white . High resolution  photo"
+  },
+  "countbench_0446": {
+    "prompt": "An image of 10 dollhouse needlepoint in a natural scene.",
+    "count": 10,
+    "category": "dollhouse needlepoint",
+    "original_prompt": "A group of ten dollhouse needlepoint firescreens"
+  },
+  "countbench_0447": {
+    "prompt": "An image of 7 bowls in a natural scene.",
+    "count": 7,
+    "category": "bowls",
+    "original_prompt": "Set of seven bowls by Gunnar"
+  },
+  "countbench_0448": {
+    "prompt": "An image of 5 waterproof stickers in a natural scene.",
+    "count": 5,
+    "category": "waterproof stickers",
+    "original_prompt": "Cats and dogs Meatballs New Year couplets a small group of five - waterproof stickers section"
+  },
+  "countbench_0449": {
+    "prompt": "An image of 7 archaic bronze in a natural scene.",
+    "count": 7,
+    "category": "archaic bronze",
+    "original_prompt": "A group of seven archaic bronze mirrors"
+  },
+  "countbench_0450": {
+    "prompt": "An image of 3 purebred chihuahuas in a natural scene.",
+    "count": 3,
+    "category": "purebred chihuahuas",
+    "original_prompt": "three purebred chihuahuas running on the beach"
+  },
+  "countbench_0451": {
+    "prompt": "An image of 7 goddess candles in a natural scene.",
+    "count": 7,
+    "category": "goddess candles",
+    "original_prompt": "Collection all  seven goddess candles."
+  },
+  "countbench_0452": {
+    "prompt": "An image of 7 sumi paint in a natural scene.",
+    "count": 7,
+    "category": "sumi paint",
+    "original_prompt": "photo of seven sumi paint brushes"
+  },
+  "countbench_0453": {
+    "prompt": "An image of 6 plated kings in a natural scene.",
+    "count": 6,
+    "category": "plated kings",
+    "original_prompt": "Set of six silver plated Kings Pattern forks"
+  },
+  "countbench_0454": {
+    "prompt": "An image of 3 gautama buddah in a natural scene.",
+    "count": 3,
+    "category": "gautama buddah",
+    "original_prompt": "three Gautama Buddah ceramic figurines"
+  },
+  "countbench_0455": {
+    "prompt": "An image of 9 amusing cartoon in a natural scene.",
+    "count": 9,
+    "category": "amusing cartoon",
+    "original_prompt": "Nine amusing cartoon owl outlines - Set of nine stylized..."
+  },
+  "countbench_0456": {
+    "prompt": "An image of 9 buttons in a natural scene.",
+    "count": 9,
+    "category": "buttons",
+    "original_prompt": "Usb icon sign nine buttons with bright gradients vector"
+  },
+  "countbench_0457": {
+    "prompt": "An image of 6 silhouettes in a natural scene.",
+    "count": 6,
+    "category": "silhouettes",
+    "original_prompt": "facial expression: Halloween set of six silhouettes of jack-o-lantern with a different facial expression, from good to evil, black on orange background. Vector graphics."
+  },
+  "countbench_0458": {
+    "prompt": "An image of 6 fried eggs in a natural scene.",
+    "count": 6,
+    "category": "fried eggs",
+    "original_prompt": "Cooking six fried eggs with moulds on griddle. High angle view"
+  },
+  "countbench_0459": {
+    "prompt": "An image of 7 guitars easy in a natural scene.",
+    "count": 7,
+    "category": "guitars easy",
+    "original_prompt": "Set of seven different guitars, easy editable and ready to use. Stock Photo - Budget Royalty-Free & Subscription, Code: 400-04280043"
+  },
+  "countbench_0460": {
+    "prompt": "An image of 7 warning signs in a natural scene.",
+    "count": 7,
+    "category": "warning signs",
+    "original_prompt": "Set of seven yellow warning signs Vector"
+  },
+  "countbench_0461": {
+    "prompt": "An image of 5 novelties in a natural scene.",
+    "count": 5,
+    "category": "novelties",
+    "original_prompt": "\"Frontcases of the five novelties that have been presented at the SIHH 2019. LANGE 1 \"\"25 Anniversary\"\", DATOGRAPH PERPETUAL, ZEITWERK DATE, LANGEMATIK HONEYGOLD, RICHARD LANGE JUMPING SECONDS\""
+  },
+  "countbench_0462": {
+    "prompt": "An image of 9 pictures in a natural scene.",
+    "count": 9,
+    "category": "pictures",
+    "original_prompt": "Set of nine pictures of pretty young woman with different gestures and emotions, isolated on white"
+  },
+  "countbench_0463": {
+    "prompt": "An image of 7 children in a natural scene.",
+    "count": 7,
+    "category": "children",
+    "original_prompt": "McCain poses with his wife and seven children in 2000. The children, from left, are Andrew, Jimmy, Jack, Bridget, Meghan, Douglas and Sidney."
+  },
+  "countbench_0464": {
+    "prompt": "An image of 8 multi maine in a natural scene.",
+    "count": 8,
+    "category": "multi maine",
+    "original_prompt": "Row / group of eight multi colored Maine Coon cat kittens isolated on a white background royalty free stock photo"
+  },
+  "countbench_0465": {
+    "prompt": "An image of 2 kids in a natural scene.",
+    "count": 2,
+    "category": "kids",
+    "original_prompt": "food, family, children, hapiness and people concept - happy family with two kids having breakfast at home photo"
+  },
+  "countbench_0466": {
+    "prompt": "An image of 6 kittens in a natural scene.",
+    "count": 6,
+    "category": "kittens",
+    "original_prompt": "six cute kittens sitting inside"
+  },
+  "countbench_0467": {
+    "prompt": "An image of 8 clockwork toys in a natural scene.",
+    "count": 8,
+    "category": "clockwork toys",
+    "original_prompt": "group of eight small bright clockwork toys on white"
+  },
+  "countbench_0468": {
+    "prompt": "An image of 5 boys tip in a natural scene.",
+    "count": 5,
+    "category": "boys tip",
+    "original_prompt": "bluezoo - Pack of five boys+ white tip striped socks"
+  },
+  "countbench_0469": {
+    "prompt": "An image of 3 mismatched socks in a natural scene.",
+    "count": 3,
+    "category": "mismatched socks",
+    "original_prompt": "Set of three mismatched socks for adults."
+  },
+  "countbench_0470": {
+    "prompt": "An image of 3 older men in a natural scene.",
+    "count": 3,
+    "category": "older men",
+    "original_prompt": "Four business people, one young woman and three older men over white background photo"
+  },
+  "countbench_0471": {
+    "prompt": "An image of 5 amazon feedback in a natural scene.",
+    "count": 5,
+    "category": "amazon feedback",
+    "original_prompt": "Wooden wall that contains five Amazon feedback stars next to an index finger"
+  },
+  "countbench_0472": {
+    "prompt": "An image of 10 quarters percent in a natural scene.",
+    "count": 10,
+    "category": "quarters percent",
+    "original_prompt": "ten quarters 90 percent silver in Spring, Texas"
+  },
+  "countbench_0473": {
+    "prompt": "An image of 5 women in a natural scene.",
+    "count": 5,
+    "category": "women",
+    "original_prompt": "five women at a lakes area professional women's event"
+  },
+  "countbench_0474": {
+    "prompt": "An image of 4 hoopers in a natural scene.",
+    "count": 4,
+    "category": "hoopers",
+    "original_prompt": "teak dining chairs set of four hoopers modern"
+  },
+  "countbench_0475": {
+    "prompt": "An image of 10 most diamond in a natural scene.",
+    "count": 10,
+    "category": "most diamond",
+    "original_prompt": "Set of ten the most popular diamond cuts and shapes_ isolated top view on white background with design names and schematic diagrams. 3D rendering illustration"
+  },
+  "countbench_0476": {
+    "prompt": "An image of 7 ahu akivi in a natural scene.",
+    "count": 7,
+    "category": "ahu akivi",
+    "original_prompt": "View of seven Ahu Akivi Moai, which are the only Moai to face the sea, Rapa Nui, Easter Island, Chile  photo"
+  },
+  "countbench_0477": {
+    "prompt": "An image of 2 roll in a natural scene.",
+    "count": 2,
+    "category": "roll",
+    "original_prompt": "women posing with hands pointed towards two roll up banner stands"
+  },
+  "countbench_0478": {
+    "prompt": "An image of 10 silhouettes in a natural scene.",
+    "count": 10,
+    "category": "silhouettes",
+    "original_prompt": "Horse riders ten silhouettes - Horse riders ten vector..."
+  },
+  "countbench_0479": {
+    "prompt": "An image of 10 rarest in a natural scene.",
+    "count": 10,
+    "category": "rarest",
+    "original_prompt": "Royal Mint reveals the ten rarest 50p coins. Credit: Royal Mint/PA Wire"
+  },
+  "countbench_0480": {
+    "prompt": "An image of 5 from left in a natural scene.",
+    "count": 5,
+    "category": "from left",
+    "original_prompt": "Tension mounts: Final five (from left) Morgan, Miss Oklahoma; Rima, Miss Michigan; Jessica, Miss Colorado; Samantha, Miss Virginia; and Katie, Miss Maine"
+  },
+  "countbench_0481": {
+    "prompt": "An image of 3 halloween banners in a natural scene.",
+    "count": 3,
+    "category": "halloween banners",
+    "original_prompt": "Set of three Halloween banners"
+  },
+  "countbench_0482": {
+    "prompt": "An image of 4 girls sit in a natural scene.",
+    "count": 4,
+    "category": "girls sit",
+    "original_prompt": "ws. four girls sit and talk on graffiti wall overlooking downtown austin. - fyra m\u00e4nniskor bildbanksvideor och videomaterial fr\u00e5n bakom kulisserna"
+  },
+  "countbench_0483": {
+    "prompt": "An image of 5 brightly in a natural scene.",
+    "count": 5,
+    "category": "brightly",
+    "original_prompt": "Flapping flag icon - five brightly colored flapping flags in..."
+  },
+  "countbench_0484": {
+    "prompt": "An image of 9 frameworks in a natural scene.",
+    "count": 9,
+    "category": "frameworks",
+    "original_prompt": "The complete set from nine frameworks - stock photo"
+  },
+  "countbench_0485": {
+    "prompt": "An image of 4 contestants in a natural scene.",
+    "count": 4,
+    "category": "contestants",
+    "original_prompt": "The Chase had four new contestants looking to beat the chaser and win money"
+  },
+  "countbench_0486": {
+    "prompt": "An image of 6 sound like in a natural scene.",
+    "count": 6,
+    "category": "sound like",
+    "original_prompt": "audio video My sister sounds like a dying cat while these six sound like heaven Dance Sing, Music Sing, Mood Songs, Music Mood, Dance Videos, Music Videos, Rap Video, Cute Songs, Amazing Songs"
+  },
+  "countbench_0487": {
+    "prompt": "An image of 6 views in a natural scene.",
+    "count": 6,
+    "category": "views",
+    "original_prompt": "planet earth map - shiny planet earth map from six views;..."
+  },
+  "countbench_0488": {
+    "prompt": "An image of 8 farm animals in a natural scene.",
+    "count": 8,
+    "category": "farm animals",
+    "original_prompt": "Farm Animals - Cute set of eight farm animals  Illustration"
+  },
+  "countbench_0489": {
+    "prompt": "An image of 4 vitamin ingredients in a natural scene.",
+    "count": 4,
+    "category": "vitamin ingredients",
+    "original_prompt": "Mother Nature Juice. A healthy and delectable juice made from four vitamin-rich ingredients."
+  },
+  "countbench_0490": {
+    "prompt": "An image of 9 objects in a natural scene.",
+    "count": 9,
+    "category": "objects",
+    "original_prompt": "Coffee icon sign symbol on nine round colourful vector"
+  },
+  "countbench_0491": {
+    "prompt": "An image of 8 buttons in a natural scene.",
+    "count": 8,
+    "category": "buttons",
+    "original_prompt": "thumbnails: List menu, app icon. Symbols on eight colored buttons. Vector illustration"
+  },
+  "countbench_0492": {
+    "prompt": "An image of 9 foreshortenings in a natural scene.",
+    "count": 9,
+    "category": "foreshortenings",
+    "original_prompt": "Pile of multiple different colorful candies isolated over the white background, set of nine different foreshortenings"
+  },
+  "countbench_0493": {
+    "prompt": "An image of 4 objects in a natural scene.",
+    "count": 4,
+    "category": "objects",
+    "original_prompt": "Wall Decor Music Theme : Music theme wall decor paper quilt art set of four by"
+  },
+  "countbench_0494": {
+    "prompt": "An image of 6 english in a natural scene.",
+    "count": 6,
+    "category": "english",
+    "original_prompt": "\"A rare set of six English blue and white \"\"Merryman\"\" plates, probably London, 1752, from Lambay (\u00a320,000-30,000).\""
+  },
+  "countbench_0495": {
+    "prompt": "An image of 4 cartoon calendars in a natural scene.",
+    "count": 4,
+    "category": "cartoon calendars",
+    "original_prompt": "A set of four cartoon calendars, each representing the seasons of spring, summer, autumn and winter."
+  },
+  "countbench_0496": {
+    "prompt": "An image of 9 oranges sit in a natural scene.",
+    "count": 9,
+    "category": "oranges sit",
+    "original_prompt": "Nine oranges sit together, three to a row."
+  },
+  "countbench_0497": {
+    "prompt": "An image of 7 staffordshire bull in a natural scene.",
+    "count": 7,
+    "category": "staffordshire bull",
+    "original_prompt": "seven staffordshire bull terrier puppies"
+  },
+  "countbench_0498": {
+    "prompt": "An image of 2 dwarf forest in a natural scene.",
+    "count": 2,
+    "category": "dwarf forest",
+    "original_prompt": "two dwarf forest buffalo feeding"
+  },
+  "countbench_0499": {
+    "prompt": "An image of 6 bottle package in a natural scene.",
+    "count": 6,
+    "category": "bottle package",
+    "original_prompt": "SlapHappy BBQ six bottle package including three Sweet & three Heat BBQ sauces"
+  },
+  "countbench_0500": {
+    "prompt": "An image of 3 security guards in a natural scene.",
+    "count": 3,
+    "category": "security guards",
+    "original_prompt": "Three security guards wearing black uniform looking through binoculars, in three different directions, shot on white"
+  },
+  "countbench_0501": {
+    "prompt": "An image of 8 with arrows in a natural scene.",
+    "count": 8,
+    "category": "with arrows",
+    "original_prompt": "Set of eight icons with arrows vector"
+  },
+  "countbench_0502": {
+    "prompt": "An image of 5 multicolor mat in a natural scene.",
+    "count": 5,
+    "category": "multicolor mat",
+    "original_prompt": "Set of five multicolor mat christmas balls on white background photo"
+  },
+  "countbench_0503": {
+    "prompt": "An image of 3 original sardines in a natural scene.",
+    "count": 3,
+    "category": "original sardines",
+    "original_prompt": "Roberto (from left), Mattia and Andrea are three of the original Sardines founders in Bologna."
+  },
+  "countbench_0504": {
+    "prompt": "An image of 3 lounge armchairs in a natural scene.",
+    "count": 3,
+    "category": "lounge armchairs",
+    "original_prompt": "\"blend in your setting: two 3-seater sofas, three lounge armchairs and 39\"\" coffee table (ostuni white mahogany/ nature grey)\""
+  },
+  "countbench_0505": {
+    "prompt": "An image of 4 frames in a natural scene.",
+    "count": 4,
+    "category": "frames",
+    "original_prompt": "four old  frames for photo with text photo"
+  },
+  "countbench_0506": {
+    "prompt": "An image of 6 retired directors in a natural scene.",
+    "count": 6,
+    "category": "retired directors",
+    "original_prompt": "\"\"\"The Gatekeepers\"\" features interviews with six retired directors of Israel's Shin Bet security service.\""
+  },
+  "countbench_0507": {
+    "prompt": "An image of 2 unidentified australian in a natural scene.",
+    "count": 2,
+    "category": "unidentified australian",
+    "original_prompt": "Rugged up in warm greatcoats, two unidentified Australian soldiers stand in the snow outsidea dugout on Gallipoli, circa November 1915. Photographer unknown. Australian War Memorial (C00783)"
+  },
+  "countbench_0508": {
+    "prompt": "An image of 2 chairs in a natural scene.",
+    "count": 2,
+    "category": "chairs",
+    "original_prompt": "Realistic perspective view vector of a wooden dining table and two chairs."
+  },
+  "countbench_0509": {
+    "prompt": "An image of 8 chairs in a natural scene.",
+    "count": 8,
+    "category": "chairs",
+    "original_prompt": "Pierre Set of eight chairs by Pierre Cardin for Maison Jansen 1970s"
+  },
+  "countbench_0510": {
+    "prompt": "An image of 5 birthday cards in a natural scene.",
+    "count": 5,
+    "category": "birthday cards",
+    "original_prompt": "birthday cards: five birthday cards with three color balloons and wish for birthday"
+  },
+  "countbench_0511": {
+    "prompt": "An image of 10 options in a natural scene.",
+    "count": 10,
+    "category": "options",
+    "original_prompt": "Modern infographic design template with ten options or steps"
+  },
+  "countbench_0512": {
+    "prompt": "An image of 3 factor model in a natural scene.",
+    "count": 3,
+    "category": "factor model",
+    "original_prompt": "Intranet User Satisfaction - three factor model"
+  },
+  "countbench_0513": {
+    "prompt": "An image of 5 pastries in a natural scene.",
+    "count": 5,
+    "category": "pastries",
+    "original_prompt": "High angle photography of five pastries on top of plate beside two mugs"
+  },
+  "countbench_0514": {
+    "prompt": "An image of 10 plants in a natural scene.",
+    "count": 10,
+    "category": "plants",
+    "original_prompt": "ten different plants in pots.... | Shutterstock .eps vector #1044116140"
+  },
+  "countbench_0515": {
+    "prompt": "An image of 6 oil slogan in a natural scene.",
+    "count": 6,
+    "category": "oil slogan",
+    "original_prompt": "Creative Tops - Set of six 'Olive Oil' slogan motif rectangular place mats"
+  },
+  "countbench_0516": {
+    "prompt": "An image of 9 objects in a natural scene.",
+    "count": 9,
+    "category": "objects",
+    "original_prompt": "Shield icon sign symbol on nine round colourful vector"
+  },
+  "countbench_0517": {
+    "prompt": "An image of 10 mazes in a natural scene.",
+    "count": 10,
+    "category": "mazes",
+    "original_prompt": "set of ten square mazes \u7248\u6b0a\u5546\u7528\u5716\u7247"
+  },
+  "countbench_0518": {
+    "prompt": "An image of 8 varieties in a natural scene.",
+    "count": 8,
+    "category": "varieties",
+    "original_prompt": "A photo taken looking down on to the tea selection box. There are eight varieties of tea each sealed in an individual paper sachet. The box is light great with splashes of oranges and pinks."
+  },
+  "countbench_0519": {
+    "prompt": "An image of 4 women in a natural scene.",
+    "count": 4,
+    "category": "women",
+    "original_prompt": "A page from Wex's work. At the bottom of a large white page are four photos of women sitting. They are purposefully sitting with their legs apart with their hands resting on their knees, mimicking the way that men often sit in public places. The photos are shot from the same distance which brings out the repetition of the form and stance."
+  },
+  "countbench_0520": {
+    "prompt": "An image of 2 children in a natural scene.",
+    "count": 2,
+    "category": "children",
+    "original_prompt": "two children on the beach in papua new guinea"
+  },
+  "countbench_0521": {
+    "prompt": "An image of 8 starfish in a natural scene.",
+    "count": 8,
+    "category": "starfish",
+    "original_prompt": "eight colorful starfish on a white background - eight..."
+  },
+  "countbench_0522": {
+    "prompt": "An image of 6 mugs contains in a natural scene.",
+    "count": 6,
+    "category": "mugs contains",
+    "original_prompt": "VECTOR - six colored mugs. Contains gradient mesh elements. - stock vector"
+  },
+  "countbench_0523": {
+    "prompt": "An image of 5 favourite champagnes in a natural scene.",
+    "count": 5,
+    "category": "favourite champagnes",
+    "original_prompt": "GT's five favourite Champagnes for celebrating"
+  },
+  "countbench_0524": {
+    "prompt": "An image of 10 eggs in a natural scene.",
+    "count": 10,
+    "category": "eggs",
+    "original_prompt": "Background from ten white eggs \u2014 Stock Photo #11724746"
+  },
+  "countbench_0525": {
+    "prompt": "An image of 9 objects in a natural scene.",
+    "count": 9,
+    "category": "objects",
+    "original_prompt": "Football soccerball icon sign A set of nine vector image"
+  },
+  "countbench_0526": {
+    "prompt": "An image of 3 colour balls in a natural scene.",
+    "count": 3,
+    "category": "colour balls",
+    "original_prompt": "for sale croquet game with three colour balls"
+  },
+  "countbench_0527": {
+    "prompt": "An image of 7 recyclable paper in a natural scene.",
+    "count": 7,
+    "category": "recyclable paper",
+    "original_prompt": "Set of seven recyclable brown paper bags Stock photo \u00a9 veralub"
+  },
+  "countbench_0528": {
+    "prompt": "An image of 2 door garage in a natural scene.",
+    "count": 2,
+    "category": "door garage",
+    "original_prompt": "progress shot of two door garage with wooden panels and windows"
+  },
+  "countbench_0529": {
+    "prompt": "An image of 8 child silhouettes in a natural scene.",
+    "count": 8,
+    "category": "child silhouettes",
+    "original_prompt": "eight child silhouettes collection isolated on white"
+  },
+  "countbench_0530": {
+    "prompt": "An image of 10 couple in a natural scene.",
+    "count": 10,
+    "category": "couple",
+    "original_prompt": "Cuddling Positions Meaning Thus, were defined ten couple"
+  },
+  "countbench_0531": {
+    "prompt": "An image of 6 dice in a natural scene.",
+    "count": 6,
+    "category": "dice",
+    "original_prompt": "six dice of various shapes and sizes."
+  },
+  "countbench_0532": {
+    "prompt": "An image of 2 young positive in a natural scene.",
+    "count": 2,
+    "category": "young positive",
+    "original_prompt": "Lifestyle selfie portrait of two young positive woman having fun and making selfie"
+  },
+  "countbench_0533": {
+    "prompt": "An image of 6 targets in a natural scene.",
+    "count": 6,
+    "category": "targets",
+    "original_prompt": "Target variation stock vector clipart, Collection of six colourful targets with drop shadow by Michael Travers"
+  },
+  "countbench_0534": {
+    "prompt": "An image of 9 healthy dried in a natural scene.",
+    "count": 9,
+    "category": "healthy dried",
+    "original_prompt": "nine healthy dried berry collection (blueberry, mulberry, cherry, goji, elderberry, chokeberry, cranberry, goldenberry) on isolated wooden spoons, top view"
+  },
+  "countbench_0535": {
+    "prompt": "An image of 7 republican candidates in a natural scene.",
+    "count": 7,
+    "category": "republican candidates",
+    "original_prompt": "The seven Republican candidates debated in South Carolina"
+  },
+  "countbench_0536": {
+    "prompt": "An image of 6 walnut arts in a natural scene.",
+    "count": 6,
+    "category": "walnut arts",
+    "original_prompt": "Set of six walnut Arts & Crafts chairs"
+  },
+  "countbench_0537": {
+    "prompt": "An image of 8 regency in a natural scene.",
+    "count": 8,
+    "category": "regency",
+    "original_prompt": "A very fine set of eight Regency dining chairs."
+  },
+  "countbench_0538": {
+    "prompt": "An image of 2 beds in a natural scene.",
+    "count": 2,
+    "category": "beds",
+    "original_prompt": "children room design with two beds and modern furniture"
+  },
+  "countbench_0539": {
+    "prompt": "An image of 10 high back in a natural scene.",
+    "count": 10,
+    "category": "high back",
+    "original_prompt": "set of ten high back lucite dining chairs for sale at 1stdibs"
+  }
+}

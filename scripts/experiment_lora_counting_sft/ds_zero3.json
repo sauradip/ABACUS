@@ -1,0 +1,28 @@
+{
+  "_comment": "DeepSpeed ZeRO-3 config for LoRA SFT (Variant B, 8 x GPU).",
+  "_comment_eff_batch": "With 8 GPUs × per_device=1 × grad_accum=2 → effective batch = 16 (matches spec §A.7).",
+
+  "zero_optimization": {
+    "stage": 3,
+    "overlap_comm": true,
+    "contiguous_gradients": true,
+    "sub_group_size": 1e9,
+    "reduce_bucket_size": "auto",
+    "stage3_prefetch_bucket_size": "auto",
+    "stage3_param_persistence_threshold": "auto",
+    "stage3_max_live_parameters": 1e9,
+    "stage3_max_reuse_distance": 1e9,
+    "stage3_gather_16bit_weights_on_model_save": true
+  },
+
+  "bf16": {
+    "enabled": "auto"
+  },
+
+  "gradient_clipping": "auto",
+  "gradient_accumulation_steps": "auto",
+  "train_micro_batch_size_per_gpu": "auto",
+  "train_batch_size": "auto",
+  "steps_per_print": 10,
+  "wall_clock_breakdown": false
+}
