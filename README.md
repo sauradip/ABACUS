@@ -58,15 +58,6 @@ Three complementary innovations drive the model:
 ### 📊 Image Counting & Understanding Benchmarks
 ABACUS outperforms task-specific specialists and larger generalist models on counting benchmarks without benchmark-specific tuning.
 
-| Method | CountBench MAE (OOD) | σ | FSC-147 MAE (in-domain) |
-| :--- | :---: | :---: | :---: |
-| Base T2I | 11.89 | — | 54.98 |
-| SFT (frozen conn) | 11.76 | ±2.03 | 51.51 |
-| Unfreeze connector baseline | 8.26 | ±0.72 | 52.74 |
-| **ABACUS (curated)** | **5.49** | **±0.31** | 53.65 |
-| **ABACUS (mixed)** | 6.80 | — | 45.33 |
-| **ABACUS (RTCC-DPO)** | **6.06** | **±0.29** | **40.36** |
-
 ### 🎨 Count-Faithful Image Generation Benchmarks
 ABACUS generates images matching the exact requested count while maintaining naturalistic spatial arrangements without mode collapse.
 
@@ -75,10 +66,10 @@ ABACUS generates images matching the exact requested count while maintaining nat
 </div>
 
 ### 🔍 Density Zooming and Objectness Grounding
-Our density-aware adaptive zooming selects and zooms high-density sub-regions guided by objectness maps:
+ABACUS can understand any in-the-wild image and count the number of instances mentioned by the user in the prompts.
 
 <div align="center">
-  <img src="static/pipeline.jpg" width="800" alt="Adaptive Zooming & Objectness Maps Pipeline"/>
+  <img src="static/understanding_gallery.jpg" width="800" alt="Count-Understanding Gallery"/>
 </div>
 
 ---
