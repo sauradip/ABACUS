@@ -19,7 +19,8 @@ This repository provides the official implementation of **ABACUS**: *Adapting Un
 > [Anindya Mondal*](https://mondalanindya.github.io/)$^1$, [Sauradip Nag*](https://sauradip-nag.github.io/)$^2$, [Anjan Dutta](https://www.surrey.ac.uk/people/anjan-dutta)$^1$
 > 
 > $^1$ University of Surrey, &nbsp; $^2$ Simon Fraser University
-> * Equal Contribution
+> 
+> $^*$ Equal Contribution
 > - Primary Contact: Anindya Mondal ( a.mondal@surrey.ac.uk )
 
 ---
