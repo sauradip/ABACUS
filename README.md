@@ -4,8 +4,7 @@
 
 [![arXiv](https://img.shields.io/badge/Arxiv-2606.23835-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2606.23835)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/mondalanindya/ABACUS_NeurIPS_26?color=critical&label=Issues)](https://github.com/mondalanindya/ABACUS_NeurIPS_26/issues)
-[![GitHub closed issues](https://img.shields.io/github/issues-closed/mondalanindya/ABACUS_NeurIPS_26?color=success&label=Issues)](https://github.com/mondalanindya/ABACUS_NeurIPS_26/issues?q=is%3Aissue+state%3Aclosed) <br>
+<br>
 </h5>
 
 <div align="center">
