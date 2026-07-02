@@ -4,6 +4,7 @@
 
 [![arXiv](https://img.shields.io/badge/Arxiv-2606.23835-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2606.23835)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![HuggingFace Dataset](https://img.shields.io/badge/🤗_Dataset-ABACUS--Data-yellow)](https://huggingface.co/datasets/sauradip/ABACUS-Data)
 <br>
 </h5>
 
