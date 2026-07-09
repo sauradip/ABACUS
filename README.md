@@ -12,7 +12,7 @@
   <img src="static/teaser.jpg" width="800" alt="ABACUS Overview Teaser"/>
 </div>
 
-This repository provides the official implementation of **ABACUS**: *Adapting Unified Foundation Models for Bridging Image Count Understanding and Generation*. We have designed a clean, structured, and state-of-the-art codebase for training and evaluating count-accurate multi-modal models.
+This repository provides the official implementation of **ABACUS**: *Adapting Unified Foundation Models for Bridging Image Count Understanding and Generation*.
 
 > **ABACUS: Adapting Unified Foundation Models for Bridging Image Count Understanding and Generation**
 >
@@ -21,7 +21,7 @@ This repository provides the official implementation of **ABACUS**: *Adapting Un
 > $^1$ University of Surrey, &nbsp; $^2$ Simon Fraser University
 > 
 > $^*$ Equal Contribution
-> - Primary Contact: Anindya Mondal ( a.mondal@surrey.ac.uk )
+> - Primary Contact: Sauradip Nag ( sauradipnag95@gmail.com )
 
 ---
 
