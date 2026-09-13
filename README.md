@@ -1,5 +1,7 @@
 # ABACUS: Adapting Unified Foundation Models for Bridging Image Count Understanding and Generation
-## SIGGRAPH ASIA 2026 ( Transaction of Graphics )
+<h4 align="center">
+ SIGGRAPH ASIA 2026 ( Transaction of Graphics )
+</h4>
 
 <h5 align="center">
 
